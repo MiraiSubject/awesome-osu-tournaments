@@ -25,6 +25,8 @@ This is a collection of useful tools and resources for hosting an osu! tournamen
 - [moss-'s BBCode generator for staff in forum posts](https://docs.google.com/spreadsheets/d/1yzsZFUrztemymny0E8RSIsYAnBz2nM2DojC-Gz-kWE8/) - Generate BBCode to nicely display your staff in the tournament forum post.
 - [RussianVaxei's Referee sheets](https://drive.google.com/drive/folders/1sYTvq80pB1AESD-e_w6G-lrT02uzLO9O) - Includes templates for overseeing qualifiers and matches. 
 
+### Spreadsheet Scripts
+
 ### Web Development
 - [MiraiSubject's passport-osu](https://github.com/MiraiSubject/passport-osu) - osu! authentication strategy for Passport and Node.js.
 
