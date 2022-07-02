@@ -1,6 +1,6 @@
 # awesome-osu-tournaments
 
-This is a collection of useful tools and resources for hosting an osu! tournament. 
+This is a collection of useful tools and resources for managing an osu! tournament. 
 
 ## Official Resources
 
