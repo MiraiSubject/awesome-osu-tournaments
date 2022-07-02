@@ -33,4 +33,4 @@ This is a collection of useful tools and resources for hosting an osu! tournamen
 
 ### Tutorials
 
-- [Dio's How to Set Up and Use the osu! Lazer Tournament Client](https://youtu.be/l_nFynsxKRs)
+- [Dio's How to Set Up and Use the osu! Lazer Tournament Client](https://youtu.be/l_nFynsxKRs) - A lengthy video tutorial on setting up and using the osu!lazer tournament client
