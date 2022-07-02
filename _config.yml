@@ -1,0 +1,9 @@
+remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - CONTRIBUTING.md
+  - README.md
