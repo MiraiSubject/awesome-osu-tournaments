@@ -29,4 +29,8 @@ This is a collection of useful tools and resources for hosting an osu! tournamen
 - [MiraiSubject's passport-osu](https://github.com/MiraiSubject/passport-osu) - osu! authentication strategy for Passport and Node.js.
 
 ### Website Templates
-- [MiraiSubject's oth-verification](https://github.com/MiraiSubject/oth-verification) - Verify players for your tournament and join them to your Tournament server securely! 
+- [MiraiSubject's oth-verification](https://github.com/MiraiSubject/oth-verification) - Verify players for your tournament and join them to your Tournament server securely!
+
+### Tutorials
+
+- [Dio's How to Set Up and Use the osu! Lazer Tournament Client](https://youtu.be/l_nFynsxKRs)
