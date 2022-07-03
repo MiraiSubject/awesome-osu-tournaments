@@ -1,4 +1,4 @@
-# awesome-osu-tournaments
+# Awesome osu! tournaments
 
 This is a collection of useful tools and resources for managing an osu! tournament. 
 
@@ -14,25 +14,29 @@ This is a collection of useful tools and resources for managing an osu! tourname
 
 ### Automation
 
-- [oliebol's Player avatar download bulk tool](https://git.omkserver.nl/omkelderman/player-avatar-download-bulk-tool) - Download osu! avatar images in bulk so you can use them in places like osu!lazer.
+- [Player avatar download bulk tool](https://git.omkserver.nl/omkelderman/player-avatar-download-bulk-tool) (by oliebol) - Download osu! avatar images in bulk so you can use them in places like osu!lazer.
 
 ### Spreadsheet Templates
 
-- [Dio's and LeoFLT's tournament sheet templates](https://drive.google.com/drive/folders/1uB5uPs5__RcmuP0aHaUkUGHqeIUuObU7) - Includes sheets for administration, mappooling, qualifiers, referees, statistics, tryouts, and team management.
-- [HitomiChan_'s tournament sheet templates](https://drive.google.com/drive/folders/1o20TAh-EAKkd3X4RBFrcLVwunKd4yZCV) - Includes templates for mappooling, reffing, statistics, and player administration.
-- [HitomiChan_'s player and staffing sheet template](https://docs.google.com/spreadsheets/d/1Ogu0Lw2JGR-WxuJav7IJd6hWAHOc0roaluCX1ROfplE/) - You can track current and past tournaments that you have participated in as either staff or player.
-- [IceDynamix' tournament sheet templates](https://drive.google.com/drive/folders/1sIGjDR9_h-M8RgiJ5Nobml5DBdsulCWF)
-- [moss-'s BBCode generator for staff in forum posts](https://docs.google.com/spreadsheets/d/1yzsZFUrztemymny0E8RSIsYAnBz2nM2DojC-Gz-kWE8/) - Generate BBCode to nicely display your staff in the tournament forum post.
-- [RussianVaxei's Referee sheets](https://drive.google.com/drive/folders/1sYTvq80pB1AESD-e_w6G-lrT02uzLO9O) - Includes templates for overseeing qualifiers and matches. 
+- [BBCode generator for staff in forum posts](https://docs.google.com/spreadsheets/d/1yzsZFUrztemymny0E8RSIsYAnBz2nM2DojC-Gz-kWE8/) (by moss-) - Generate BBCode to nicely display your staff in the tournament forum post.
+- [Mappool, qualifier and referee sheet templates](https://drive.google.com/drive/folders/1sIGjDR9_h-M8RgiJ5Nobml5DBdsulCWF) (by IceDynamix) - Sheets for mappool and referee management in the backend, as well as a sheet to organise qualifier results.
+- [Player and staffing sheet template](https://docs.google.com/spreadsheets/d/1Ogu0Lw2JGR-WxuJav7IJd6hWAHOc0roaluCX1ROfplE/) (by HitomiChan) - You can track current and past tournaments that you have participated in as either staff or player.
+- [Referee sheets](https://drive.google.com/drive/folders/1sYTvq80pB1AESD-e_w6G-lrT02uzLO9O) (by RussianVaxei) - Includes templates for overseeing qualifiers and matches. 
+- [Team management templates](https://drive.google.com/drive/folders/1MrQc2fFx-OERCHFiezdtvaP3PrtXKg31?usp=sharing) (by RussianVaxei) - Track your team's statistics and availability using this collection of sheet templates.
+- [Tournament sheet templates](https://drive.google.com/drive/folders/1uB5uPs5__RcmuP0aHaUkUGHqeIUuObU7) (by Dio and LeoFLT) - Includes sheets for administration, mappooling, qualifiers, referees, statistics, tryouts, and team management.
+- [Tournament sheet templates](https://drive.google.com/drive/folders/1o20TAh-EAKkd3X4RBFrcLVwunKd4yZCV) (by HitomiChan) - Includes templates for mappooling, reffing, statistics, and player administration.
 
-### Spreadsheet Scripts
+
+### Spreadsheet Scripts/Tools
+
+- [osu! api fetch stuff for google scripts](https://gist.github.com/omkelderman/037342ca6612140197d0bb6f19328884) (by oliebol) - Sample code to interface with the osu! api using Google Sheets
 
 ### Web Development
-- [MiraiSubject's passport-osu](https://github.com/MiraiSubject/passport-osu) - osu! authentication strategy for Passport and Node.js.
+- [passport-osu](https://github.com/MiraiSubject/passport-osu) (by MiraiSubject) - osu! authentication strategy for Passport and Node.js.
 
 ### Website Templates
-- [MiraiSubject's oth-verification](https://github.com/MiraiSubject/oth-verification) - Verify players for your tournament and join them to your Tournament server securely!
+- [oth-verification](https://github.com/MiraiSubject/oth-verification) (by MiraiSubject) - Verify players for your tournament and join them to your Tournament server securely!
 
 ### Tutorials
 
-- [Dio's How to Set Up and Use the osu! Lazer Tournament Client](https://youtu.be/l_nFynsxKRs) - A lengthy video tutorial on setting up and using the osu!lazer tournament client
+- [How to Set Up and Use the osu! Lazer Tournament Client](https://youtu.be/l_nFynsxKRs) (by Dio) - A lengthy video tutorial on setting up and using the osu!lazer tournament client
