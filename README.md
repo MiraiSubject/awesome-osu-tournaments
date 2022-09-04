@@ -1,6 +1,6 @@
 # Awesome osu! tournaments
 
-This is a collection of useful tools and resources for managing an osu! tournament. 
+This is a collection of useful tools and resources for managing an osu! tournament.
 
 ## Official Resources
 
@@ -21,7 +21,7 @@ This is a collection of useful tools and resources for managing an osu! tourname
 - [BBCode generator for staff in forum posts](https://docs.google.com/spreadsheets/d/1yzsZFUrztemymny0E8RSIsYAnBz2nM2DojC-Gz-kWE8/) (by moss-) - Generate BBCode to nicely display your staff in the tournament forum post.
 - [Mappool, qualifier and referee sheet templates](https://drive.google.com/drive/folders/1sIGjDR9_h-M8RgiJ5Nobml5DBdsulCWF) (by IceDynamix) - Sheets for mappool and referee management in the backend, as well as a sheet to organise qualifier results.
 - [Player and staffing sheet template](https://docs.google.com/spreadsheets/d/1Ogu0Lw2JGR-WxuJav7IJd6hWAHOc0roaluCX1ROfplE/) (by HitomiChan) - You can track current and past tournaments that you have participated in as either staff or player.
-- [Referee sheets](https://drive.google.com/drive/folders/1sYTvq80pB1AESD-e_w6G-lrT02uzLO9O) (by RussianVaxei) - Includes templates for overseeing qualifiers and matches. 
+- [Referee sheets](https://drive.google.com/drive/folders/1sYTvq80pB1AESD-e_w6G-lrT02uzLO9O) (by RussianVaxei) - Includes templates for overseeing qualifiers and matches.
 - [Team management templates](https://drive.google.com/drive/folders/1MrQc2fFx-OERCHFiezdtvaP3PrtXKg31?usp=sharing) (by RussianVaxei) - Track your team's statistics and availability using this collection of sheet templates.
 - [Tournament sheet templates](https://drive.google.com/drive/folders/1uB5uPs5__RcmuP0aHaUkUGHqeIUuObU7) (by Dio and LeoFLT) - Includes sheets for administration, mappooling, qualifiers, referees, statistics, tryouts, and team management.
 - [Tournament sheet templates](https://drive.google.com/drive/folders/1o20TAh-EAKkd3X4RBFrcLVwunKd4yZCV) (by HitomiChan) - Includes templates for mappooling, reffing, statistics, and player administration.
@@ -38,8 +38,12 @@ This is a collection of useful tools and resources for managing an osu! tourname
 - [oth-verification](https://github.com/MiraiSubject/oth-verification) (by MiraiSubject) - Verify players for your tournament and join them to your Tournament server securely!
 
 ### Tournament Overlay Templates
-- [vcl-tournament-overlay](https://github.com/vncommunityleague/vcl-tournament-overlay) (by Hoaq) - Gosumemory-compatible 1v1 tournament overlay, made to reduce headache of setting up Lazer tournament client. 
+- [vcl-tournament-overlay](https://github.com/vncommunityleague/vcl-tournament-overlay) (by Hoaq) - Gosumemory-compatible 1v1 tournament overlay, made to reduce headache of setting up Lazer tournament client.
 
 ### Tutorials
 
-- [How to Set Up and Use the osu! Lazer Tournament Client](https://youtu.be/l_nFynsxKRs) (by Dio) - A lengthy video tutorial on setting up and using the osu!lazer tournament client
+- [How to Set Up the osu! Tournament Client](https://youtu.be/Zg5TmlacCg4) (by Dio) - A video tutorial on setting up and using the osu! tournament client.
+- [How to Set Up and Use the osu! Lazer Tournament Client](https://youtu.be/l_nFynsxKRs) (by Dio) - A lengthy video tutorial on setting up and using the osu!lazer tournament client.
+- [Tournament Hosting Guide](https://docs.google.com/document/d/1aveFDrzwC9TiRrHAsDfRW0bVSKs3JY-v8TNmN0kB484/edit) (by Fairy Bread a.k.a. ill onion) - The longest plain-text guide on hosting and staffing osu! tournaments, covering basically every aspect for Standard tournaments and all aspects besides mappooling for other game mode tournaments.
+- [Mappooling Guide](https://docs.google.com/document/d/1PERMOiwSI-mJ8s-hCsNVEG1FVeInMWyBC1eZv1iZ9SI/edit?usp=sharing) (by dqwed) - A more modern mappooling guide as a counterpart to the more famous mappooling guides by [Dada](https://docs.google.com/document/d/e/2PACX-1vSEsDvb6MoutgXNY8j7-oiMMyVeJyNxISmmXPhxU0hzxNrxHl3TsuBv1FgLJgXqHGeUUlDgOWVTWnpj/pub) and [Smoothie World](https://docs.google.com/document/d/1lv_tW35cSZtqK4PtOJoatzfnin67TIBDIpeKVcHHlL8/pub).
+- [Refereeing Guide](https://docs.google.com/document/d/1CDZCOS1xHFFI6rotEJqPsYfnGBgjGlZk8FNxMDWzOmg/edit) (by Yazzehh) - A text guide on refereeing, including tournament client setup for live-spectating any match you happen to be reffing.
