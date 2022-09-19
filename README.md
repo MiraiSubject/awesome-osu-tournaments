@@ -25,6 +25,7 @@ This is a collection of useful tools and resources for managing an osu! tourname
 - [Team management templates](https://drive.google.com/drive/folders/1MrQc2fFx-OERCHFiezdtvaP3PrtXKg31?usp=sharing) (by RussianVaxei) - Track your team's statistics and availability using this collection of sheet templates.
 - [Tournament sheet templates](https://drive.google.com/drive/folders/1uB5uPs5__RcmuP0aHaUkUGHqeIUuObU7) (by Dio and LeoFLT) - Includes sheets for administration, mappooling, qualifiers, referees, statistics, tryouts, and team management.
 - [Tournament sheet templates](https://drive.google.com/drive/folders/1o20TAh-EAKkd3X4RBFrcLVwunKd4yZCV) (by HitomiChan) - Includes templates for mappooling, reffing, statistics, and player administration.
+- [Tournament sheet templates](https://drive.google.com/drive/u/1/folders/1OWK7WxQlVQQmeNdI3X7mxvGA8vywKDUB) (by Nathaniel) - Includes 1v1 templates for administrationm, mappooling, and reffing, as well as a BBCode forum post generator.
 
 
 ### Spreadsheet Scripts/Tools
@@ -45,6 +46,7 @@ This is a collection of useful tools and resources for managing an osu! tourname
 - [How to Set Up the osu! Tournament Client](https://youtu.be/Zg5TmlacCg4) (by Dio) - A video tutorial on setting up and using the osu! tournament client.
 - [How to Set Up and Use the osu! Lazer Tournament Client](https://youtu.be/l_nFynsxKRs) (by Dio) - A lengthy video tutorial on setting up and using the osu!lazer tournament client.
 - [Tournament Hosting Guide](https://docs.google.com/document/d/1aveFDrzwC9TiRrHAsDfRW0bVSKs3JY-v8TNmN0kB484/edit) (by Fairy Bread a.k.a. ill onion) - The longest plain-text guide on hosting and staffing osu! tournaments, covering basically every aspect for Standard tournaments and all aspects besides mappooling for other game mode tournaments.
+- [Comprehensive Tournament Role Guide](https://docs.google.com/document/d/1ynEItqDBZYp9CVuFuJAJ6WBPLm20AacOrdiRGolUpEA/edit) (by Nathaniel) - A compregensive plain-text guide on almost, if not every, single role and aspect for Standard tournaments, with links and references to other resources like role-specific guides and templates.
 - [Mappooling Guide](https://docs.google.com/document/d/1PERMOiwSI-mJ8s-hCsNVEG1FVeInMWyBC1eZv1iZ9SI/edit?usp=sharing) (by dqwed) - A more modern mappooling guide as a counterpart to the more famous mappooling guides by [Dada](https://docs.google.com/document/d/e/2PACX-1vSEsDvb6MoutgXNY8j7-oiMMyVeJyNxISmmXPhxU0hzxNrxHl3TsuBv1FgLJgXqHGeUUlDgOWVTWnpj/pub) and [Smoothie World](https://docs.google.com/document/d/1lv_tW35cSZtqK4PtOJoatzfnin67TIBDIpeKVcHHlL8/pub).
 - [Refereeing Guide](https://docs.google.com/document/d/1CDZCOS1xHFFI6rotEJqPsYfnGBgjGlZk8FNxMDWzOmg/edit) (by Yazzehh) - A text guide on refereeing, including tournament client setup for live-spectating any match you happen to be reffing.
 - [Regex for Discord Handles and osu! User IDs](https://gist.github.com/DRCallaghan/8d394d0b510f75fa58c2267cd1e4da32) (by Dio) - A text guide on using regular expressions to control registration form input.
