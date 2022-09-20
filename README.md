@@ -24,22 +24,22 @@ This is a collection of useful tools and resources for managing an osu! tourname
 ### Databases
 
 - Badged Tournaments:
--   Mappools only:
--     [2019 5 Digit](https://docs.google.com/spreadsheets/d/1oaGrmsbHr9L60AgaKTz3_fuvJB7Sjxzxweakm_Uu3Y8) (by unknown)
--   [2020](https://docs.google.com/spreadsheets/u/1/d/1nLhUJwHgb0ptksMqWIKRo01L0xiQ-xG7kTr3nhBldLI) (by DizzyH and Mirthille)
--   [2021](https://docs.google.com/spreadsheets/u/1/d/1DWMoBsy8Sh39j65ix6OTs19qbZOzH_zSTgzFgqid7YQ) (by DizzyH)
--   [2022](https://docs.google.com/spreadsheets/d/1IobdnWKVKcMD-kk7UpAk_diSf6HSI9GVwG500W-jdqY) (by DizzyH)
+  - Mappools only:
+    - [2019 5 Digit](https://docs.google.com/spreadsheets/d/1oaGrmsbHr9L60AgaKTz3_fuvJB7Sjxzxweakm_Uu3Y8) (by unknown)
+  - [2020](https://docs.google.com/spreadsheets/u/1/d/1nLhUJwHgb0ptksMqWIKRo01L0xiQ-xG7kTr3nhBldLI) (by DizzyH and Mirthille)
+  - [2021](https://docs.google.com/spreadsheets/u/1/d/1DWMoBsy8Sh39j65ix6OTs19qbZOzH_zSTgzFgqid7YQ) (by DizzyH)
+  - [2022](https://docs.google.com/spreadsheets/d/1IobdnWKVKcMD-kk7UpAk_diSf6HSI9GVwG500W-jdqY) (by DizzyH)
 - [Maps listed by skillset](https://docs.google.com/spreadsheets/d/1wPkqXQoVZUATwWfkEbzPnk_Nr3NJ-FpIxFyjzPL11XA) (by unknown) - Ranges from 4* - 8* pools. Note that this doesn't mean a skillset shoud be confined to the slot given in the sheet.
 
 ### Graphics
 - osu! Tournament Hub Banners/Headers:
--   [Colored sides](https://cdn.discordapp.com/attachments/315488256365953025/720841449033302016/color_sides.png) (by ChillierPear)
--   [Dark sides](https://cdn.discordapp.com/attachments/315488256365953025/720841450270752848/dark_sides.png) (by ChillierPear)
--   [maybe](https://cdn.discordapp.com/attachments/315488256365953025/720841451445026836/maybe.png) (by ChillierPear)
--   [White sides](https://cdn.discordapp.com/attachments/315488256365953025/720841452854313030/white_sides.png) (by ChillierPear)
+  - [Colored sides](https://cdn.discordapp.com/attachments/315488256365953025/720841449033302016/color_sides.png) (by ChillierPear)
+  - [Dark sides](https://cdn.discordapp.com/attachments/315488256365953025/720841450270752848/dark_sides.png) (by ChillierPear)
+  - [No sides](https://cdn.discordapp.com/attachments/315488256365953025/720841451445026836/maybe.png) (by ChillierPear)
+  - [White sides](https://cdn.discordapp.com/attachments/315488256365953025/720841452854313030/white_sides.png) (by ChillierPear)
 - osu! Tournament Hub cookies:
--   [o!TH](https://cdn.discordapp.com/attachments/315488256365953025/720843937216069722/server_icon.png) (by ChillierPear)
--   [o!th](https://cdn.discordapp.com/attachments/315488256365953025/720852271566422072/logoothub.png) (by sour#0001)
+  - [o!TH](https://cdn.discordapp.com/attachments/315488256365953025/720843937216069722/server_icon.png) (by ChillierPear)
+  - [o!th](https://cdn.discordapp.com/attachments/315488256365953025/720852271566422072/logoothub.png) (by sour#0001)
 
 ### Tools
 
@@ -61,13 +61,13 @@ This is a collection of useful tools and resources for managing an osu! tourname
 - [Tournament sheet templates](https://drive.google.com/drive/u/1/folders/1OWK7WxQlVQQmeNdI3X7mxvGA8vywKDUB) (by Nathaniel) - Includes 1v1 templates for administrationm, mappooling, and reffing, as well as a BBCode forum post generator.
 
 ### Web Development
-- [passport-osu](https://github.com/MiraiSubject/passport-osu) (by MiraiSubject) - osu! authentication strategy for Passport and Node.js.
+- [Passport-osu](https://github.com/MiraiSubject/passport-osu) (by MiraiSubject) - osu! authentication strategy for Passport and Node.js.
 
 ### Website Templates
-- [oth-verification](https://github.com/MiraiSubject/oth-verification) (by MiraiSubject) - Verify players for your tournament and join them to your Tournament server securely!
+- [Tournament Verification System](https://github.com/MiraiSubject/oth-verification) (by MiraiSubject) - Verify players for your tournament and join them to your Tournament server securely!
 
 ### Tournament Overlay Templates
-- [vcl-tournament-overlay](https://github.com/vncommunityleague/vcl-tournament-overlay) (by Hoaq) - Gosumemory-compatible 1v1 tournament overlay, made to reduce headache of setting up Lazer tournament client.
+- [VCL Tournament Overlay](https://github.com/vncommunityleague/vcl-tournament-overlay) (by Hoaq) - Gosumemory-compatible 1v1 tournament overlay, made to reduce headache of setting up Lazer tournament client.
 
 ### Tutorials
 
