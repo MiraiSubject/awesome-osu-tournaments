@@ -37,6 +37,9 @@ This is a collection of useful tools and resources for managing an osu! tourname
 ### Website Templates
 - [oth-verification](https://github.com/MiraiSubject/oth-verification) (by MiraiSubject) - Verify players for your tournament and join them to your Tournament server securely!
 
+### Websites
+- [osu! Tournament & Map Database](https://otmd.konotorii.com) (by Konotorii) - Tournament map database targetting easier pooling for mappoolers .
+
 ### Tournament Overlay Templates
 - [vcl-tournament-overlay](https://github.com/vncommunityleague/vcl-tournament-overlay) (by Hoaq) - Gosumemory-compatible 1v1 tournament overlay, made to reduce headache of setting up Lazer tournament client.
 
