@@ -36,6 +36,7 @@ This is a collection of useful tools and resources for managing an osu! tourname
 
 ### Web Development
 - [passport-osu](https://github.com/MiraiSubject/passport-osu) (by MiraiSubject) - osu! authentication strategy for Passport and Node.js.
+- [osu! provider for NextAuth.js](https://next-auth.js.org/providers/osu) - osu! authentication provider for NextAuth and Next.js
 
 ### Website Templates
 - [oth-verification](https://github.com/MiraiSubject/oth-verification) (by MiraiSubject) - Verify players for your tournament and join them to your Tournament server securely!
