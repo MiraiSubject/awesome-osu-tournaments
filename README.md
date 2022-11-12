@@ -16,6 +16,9 @@ This is a collection of useful tools and resources for managing an osu! tourname
 
 - [Player avatar download bulk tool](https://git.omkserver.nl/omkelderman/player-avatar-download-bulk-tool) (by oliebol) - Download osu! avatar images in bulk so you can use them in places like osu!lazer.
 
+### Referee Clients
+- [Brigitta](https://github.com/hburn7/Brigitta) (by Stage) - IRC client made specifically for tournament referees.
+
 ### Spreadsheet Templates
 
 - [BBCode generator for staff in forum posts](https://docs.google.com/spreadsheets/d/1yzsZFUrztemymny0E8RSIsYAnBz2nM2DojC-Gz-kWE8/) (by moss-) - Generate BBCode to nicely display your staff in the tournament forum post.
