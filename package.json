@@ -1,0 +1,18 @@
+{
+  "name": "oth-links",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "volta": {
+    "node": "18.12.0"
+  },
+  "devDependencies": {
+    "@types/node": "^18.11.9"
+  },
+  "dependencies": {
+    "@types/marked": "^4.0.7",
+    "discord.js": "^14.6.0",
+    "marked": "^4.2.2",
+    "typescript": "^4.9.3"
+  }
+}
