@@ -12,6 +12,9 @@ jobs:
 
     runs-on: ubuntu-latest
     environment: discord-bot
+    env:
+      DISCORD_TOKEN: ${{ secrets.DISCORD_TOKEN }}
+      DISCORD_CHANNEL_ID: ${{ secrets.DISCORD_CHANNEL_ID }}
     strategy:
       matrix:
         node-version: [18.x]
