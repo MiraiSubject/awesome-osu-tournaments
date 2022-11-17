@@ -67,9 +67,9 @@ export default class DiscordBot extends Client {
         const channel = this.channels.cache.get(this.destinationChannelId) as TextChannel;
         channel.bulkDelete(100);
         channel.send({
-            embeds: [reverifyEmbed,officialResourcesEmbed, communityResourcesEmbed]
+            embeds: [reverifyEmbed, officialResourcesEmbed, communityResourcesEmbed]
         });
-
+        console.log("Sucessfully updated embeds in the discord channel");
         process.exit(0);
     }
 
