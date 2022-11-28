@@ -31,22 +31,10 @@ This is a collection of useful tools and resources for managing an osu! tourname
   - [2022](https://docs.google.com/spreadsheets/d/1IobdnWKVKcMD-kk7UpAk_diSf6HSI9GVwG500W-jdqY) (by DizzyH)
 - [Maps listed by skillset](https://docs.google.com/spreadsheets/d/1wPkqXQoVZUATwWfkEbzPnk_Nr3NJ-FpIxFyjzPL11XA) (by unknown) - Ranges from 4* - 8* pools. Note that this doesn't mean a skillset shoud be confined to the slot given in the sheet.
 
-### Graphics
-- osu! Tournament Hub Banners/Headers:
-  - [Colored sides](https://cdn.discordapp.com/attachments/315488256365953025/720841449033302016/color_sides.png) (by ChillierPear)
-  - [Dark sides](https://cdn.discordapp.com/attachments/315488256365953025/720841450270752848/dark_sides.png) (by ChillierPear)
-  - [No sides](https://cdn.discordapp.com/attachments/315488256365953025/720841451445026836/maybe.png) (by ChillierPear)
-  - [White sides](https://cdn.discordapp.com/attachments/315488256365953025/720841452854313030/white_sides.png) (by ChillierPear)
-- osu! Tournament Hub cookies:
-  - [o!TH](https://cdn.discordapp.com/attachments/315488256365953025/720843937216069722/server_icon.png) (by ChillierPear)
-  - [o!th](https://cdn.discordapp.com/attachments/315488256365953025/720852271566422072/logoothub.png) (by sour#0001)
-
 ### Tools
 
-- [bancho.js](https://bancho.js.org) (by ThePoon) - JS Library for interfacing with Bancho over IRC.
 - [chat4osu!](https://osu.ppy.sh/community/forums/topics/879262) (by hallowatcher) - IRC chat client for referees and casual chatters.
 - [gosumemory!](https://github.com/l3lackShark/gosumemory) (by l3lackShark) - Cross-Platform memory reader.
-- [osu! api fetch stuff for google scripts](https://gist.github.com/omkelderman/037342ca6612140197d0bb6f19328884) (by oliebol) - Sample code to interface with the osu! api using Google Sheets.
 - [Script chan](https://osu.ppy.sh/community/forums/topics/730734) - Referee tool to create and manage lobbies.
 
 ### Referee Clients
@@ -68,6 +56,7 @@ This is a collection of useful tools and resources for managing an osu! tourname
 - [bracket.json Team Generator](https://github.com/Coppertine/BracketJsonTeamsGen) (by Coppertine) - Fills the Teams, Seeding Results and Seed placements for all teams in a HitomiChan_ V4 Stats sheet after qualifiers.
 
 ### Web Development
+- [bancho.js](https://bancho.js.org) (by ThePoon) - JS Library for interfacing with Bancho over IRC.
 - [passport-osu](https://github.com/MiraiSubject/passport-osu) (by MiraiSubject) - osu! authentication strategy for Passport and Node.js.
 - [osu! provider for NextAuth.js](https://next-auth.js.org/providers/osu) - osu! authentication provider for NextAuth and Next.js
 - [Tournament sheet templates](https://drive.google.com/drive/u/1/folders/1OWK7WxQlVQQmeNdI3X7mxvGA8vywKDUB) (by Nathaniel) - Includes 1v1 templates for administrationm, mappooling, and reffing, as well as a BBCode forum post generator.
@@ -79,16 +68,16 @@ This is a collection of useful tools and resources for managing an osu! tourname
 - [osu! Tournament & Map Database](https://otmd.konotorii.com) (by Konotorii) - Tournament map database targetting easier pooling for mappoolers.
 
 ### Tournament Overlay Templates
-- [VCL Tournament Overlay](https://github.com/vncommunityleague/vcl-tournament-overlay) (by Hoaq) - Gosumemory-compatible 1v1 tournament overlay, made to reduce headache of setting up Lazer tournament client.
+- [VCL Tournament Overlay - Lazer edition](https://github.com/vncommunityleague/vcl-tournament-overlay) (by Hoaq) - Gosumemory-compatible 1v1 tournament overlay, made to reduce headache of setting up Lazer tournament client.
 
 ### Tutorials
 
 - [How to Set Up the osu! Tournament Client](https://youtu.be/Zg5TmlacCg4) (by Dio) - A video tutorial on setting up and using the osu! tournament client.
 - [How to Set Up and Use the osu! Lazer Tournament Client](https://youtu.be/l_nFynsxKRs) (by Dio) - A lengthy video tutorial on setting up and using the osu!lazer tournament client.
-- [Tournament Hosting Guide](https://docs.google.com/document/d/1aveFDrzwC9TiRrHAsDfRW0bVSKs3JY-v8TNmN0kB484/edit) (by Fairy Bread a.k.a. ill onion) - The longest plain-text guide on hosting and staffing osu! tournaments, covering basically every aspect for Standard tournaments and all aspects besides mappooling for other game mode tournaments.
-- [Comprehensive Tournament Role Guide](https://docs.google.com/document/d/1ynEItqDBZYp9CVuFuJAJ6WBPLm20AacOrdiRGolUpEA/edit) (by Nathaniel) - A compregensive plain-text guide on almost, if not every, single role and aspect for Standard tournaments, with links and references to other resources like role-specific guides and templates.
-- [Mappooling Guide](https://docs.google.com/document/d/1PERMOiwSI-mJ8s-hCsNVEG1FVeInMWyBC1eZv1iZ9SI/edit) (by dqwed) - A more modern mappooling guide as a counterpart to the more famous mappooling guides by [Dada](https://docs.google.com/document/d/e/2PACX-1vSEsDvb6MoutgXNY8j7-oiMMyVeJyNxISmmXPhxU0hzxNrxHl3TsuBv1FgLJgXqHGeUUlDgOWVTWnpj/pub) and [Smoothie World](https://docs.google.com/document/d/1lv_tW35cSZtqK4PtOJoatzfnin67TIBDIpeKVcHHlL8/pub).
+- [Tournament Hosting Guide](https://docs.google.com/document/d/1aveFDrzwC9TiRrHAsDfRW0bVSKs3JY-v8TNmN0kB484/) (by Fairy Bread a.k.a. ill onion) - The longest plain-text guide on hosting and staffing osu! tournaments, covering basically every aspect for Standard tournaments and all aspects besides mappooling for other game mode tournaments.
+- [Comprehensive Tournament Role Guide](https://docs.google.com/document/d/1ynEItqDBZYp9CVuFuJAJ6WBPLm20AacOrdiRGolUpEA/) (by Nathaniel) - A compregensive plain-text guide on almost, if not every, single role and aspect for Standard tournaments, with links and references to other resources like role-specific guides and templates.
+- [Mappooling Guide](https://docs.google.com/document/d/1PERMOiwSI-mJ8s-hCsNVEG1FVeInMWyBC1eZv1iZ9SI/) (by dqwed) - A more modern mappooling guide as a counterpart to the more famous mappooling guides by [Dada](https://docs.google.com/document/d/e/2PACX-1vSEsDvb6MoutgXNY8j7-oiMMyVeJyNxISmmXPhxU0hzxNrxHl3TsuBv1FgLJgXqHGeUUlDgOWVTWnpj/pub) and [Smoothie World](https://docs.google.com/document/d/1lv_tW35cSZtqK4PtOJoatzfnin67TIBDIpeKVcHHlL8/pub).
 - [Mappool video guide](https://www.youtube.com/watch?v=MBVaAffk4is) (by DigitalHypno) - A video guide on mappooling.
-- [Pooling for 6 Digits](https://docs.google.com/document/d/10HMPaSnTgQ8OjedlzobFBCB_EyqDBayUqL1Us7iUC7I/edit) (by Quag) - A mappooling guide for the 6 digit rank range.
-- [Refereeing Guide](https://docs.google.com/document/d/1CDZCOS1xHFFI6rotEJqPsYfnGBgjGlZk8FNxMDWzOmg/edit) (by Yazzehh) - A text guide on refereeing, including tournament client setup for live-spectating any match you happen to be reffing.
+- [Pooling for 6 Digits](https://docs.google.com/document/d/10HMPaSnTgQ8OjedlzobFBCB_EyqDBayUqL1Us7iUC7I/) (by Quag) - A mappooling guide for the 6 digit rank range.
+- [Refereeing Guide](https://docs.google.com/document/d/1CDZCOS1xHFFI6rotEJqPsYfnGBgjGlZk8FNxMDWzOmg/) (by Yazzehh) - A text guide on refereeing, including tournament client setup for live-spectating any match you happen to be reffing.
 - [Regex for Discord Handles and osu! User IDs](https://gist.github.com/DRCallaghan/8d394d0b510f75fa58c2267cd1e4da32) (by Dio) - A text guide on using regular expressions to control registration form input.
