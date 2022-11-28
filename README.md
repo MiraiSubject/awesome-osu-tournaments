@@ -49,6 +49,9 @@ This is a collection of useful tools and resources for managing an osu! tourname
 - [osu! api fetch stuff for google scripts](https://gist.github.com/omkelderman/037342ca6612140197d0bb6f19328884) (by oliebol) - Sample code to interface with the osu! api using Google Sheets.
 - [Script chan](https://osu.ppy.sh/community/forums/topics/730734) - Referee tool to create and manage lobbies.
 
+### Referee Clients
+- [Brigitta](https://github.com/hburn7/Brigitta) (by Stage) - IRC client made specifically for tournament referees.
+
 ### Spreadsheet Templates
 
 - [BBCode generator for staff in forum posts](https://docs.google.com/spreadsheets/d/1yzsZFUrztemymny0E8RSIsYAnBz2nM2DojC-Gz-kWE8) (by moss-) - Generate BBCode to nicely display your staff in the tournament forum post.
@@ -58,13 +61,22 @@ This is a collection of useful tools and resources for managing an osu! tourname
 - [Team management templates](https://drive.google.com/drive/folders/1MrQc2fFx-OERCHFiezdtvaP3PrtXKg31) (by RussianVaxei) - Track your team's statistics and availability using this collection of sheet templates.
 - [Tournament sheet templates](https://drive.google.com/drive/folders/1uB5uPs5__RcmuP0aHaUkUGHqeIUuObU7) (by Dio and LeoFLT) - Includes sheets for administration, mappooling, qualifiers, referees, statistics, tryouts, and team management.
 - [Tournament sheet templates](https://drive.google.com/drive/folders/1o20TAh-EAKkd3X4RBFrcLVwunKd4yZCV) (by HitomiChan) - Includes templates for mappooling, reffing, statistics, and player administration.
-- [Tournament sheet templates](https://drive.google.com/drive/u/1/folders/1OWK7WxQlVQQmeNdI3X7mxvGA8vywKDUB) (by Nathaniel) - Includes 1v1 templates for administrationm, mappooling, and reffing, as well as a BBCode forum post generator.
+
+### Spreadsheet Scripts/Tools
+
+- [osu! api fetch stuff for google scripts](https://gist.github.com/omkelderman/037342ca6612140197d0bb6f19328884) (by oliebol) - Sample code to interface with the osu! api using Google Sheets
+- [bracket.json Team Generator](https://github.com/Coppertine/BracketJsonTeamsGen) (by Coppertine) - Fills the Teams, Seeding Results and Seed placements for all teams in a HitomiChan_ V4 Stats sheet after qualifiers.
 
 ### Web Development
-- [Passport-osu](https://github.com/MiraiSubject/passport-osu) (by MiraiSubject) - osu! authentication strategy for Passport and Node.js.
+- [passport-osu](https://github.com/MiraiSubject/passport-osu) (by MiraiSubject) - osu! authentication strategy for Passport and Node.js.
+- [osu! provider for NextAuth.js](https://next-auth.js.org/providers/osu) - osu! authentication provider for NextAuth and Next.js
+- [Tournament sheet templates](https://drive.google.com/drive/u/1/folders/1OWK7WxQlVQQmeNdI3X7mxvGA8vywKDUB) (by Nathaniel) - Includes 1v1 templates for administrationm, mappooling, and reffing, as well as a BBCode forum post generator.
 
 ### Website Templates
 - [Tournament Verification System](https://github.com/MiraiSubject/oth-verification) (by MiraiSubject) - Verify players for your tournament and join them to your Tournament server securely!
+
+### Websites
+- [osu! Tournament & Map Database](https://otmd.konotorii.com) (by Konotorii) - Tournament map database targetting easier pooling for mappoolers.
 
 ### Tournament Overlay Templates
 - [VCL Tournament Overlay](https://github.com/vncommunityleague/vcl-tournament-overlay) (by Hoaq) - Gosumemory-compatible 1v1 tournament overlay, made to reduce headache of setting up Lazer tournament client.
