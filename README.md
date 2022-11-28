@@ -58,7 +58,7 @@ This is a collection of useful tools and resources for managing an osu! tourname
 ### Web Development
 - [bancho.js](https://bancho.js.org) (by ThePoon) - JS Library for interfacing with Bancho over IRC.
 - [passport-osu](https://github.com/MiraiSubject/passport-osu) (by MiraiSubject) - osu! authentication strategy for Passport and Node.js.
-- [osu! provider for NextAuth.js](https://next-auth.js.org/providers/osu) - osu! authentication provider for NextAuth and Next.js
+- [osu! provider for NextAuth.js](https://next-auth.js.org/providers/osu) (by NextAuth.js [Contributors](https://github.com/nextauthjs/next-auth/commits/main/packages/next-auth/src/providers/osu.ts)) - osu! authentication provider for NextAuth and Next.js
 - [Tournament sheet templates](https://drive.google.com/drive/u/1/folders/1OWK7WxQlVQQmeNdI3X7mxvGA8vywKDUB) (by Nathaniel) - Includes 1v1 templates for administrationm, mappooling, and reffing, as well as a BBCode forum post generator.
 
 ### Website Templates
