@@ -33,6 +33,7 @@ This is a collection of useful tools and resources for managing an osu! tourname
 ### Spreadsheet Scripts/Tools
 
 - [osu! api fetch stuff for google scripts](https://gist.github.com/omkelderman/037342ca6612140197d0bb6f19328884) (by oliebol) - Sample code to interface with the osu! api using Google Sheets
+- [bracket.json Team Generator](https://github.com/Coppertine/BracketJsonTeamsGen) (by Coppertine) - Fills the Teams, Seeding Results and Seed placements for all teams in a HitomiChan_ V4 Stats sheet after qualifiers.
 
 ### Web Development
 - [passport-osu](https://github.com/MiraiSubject/passport-osu) (by MiraiSubject) - osu! authentication strategy for Passport and Node.js.
