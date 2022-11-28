@@ -16,10 +16,22 @@ export default class DiscordBot extends Client {
         this.login(process.env.DISCORD_TOKEN);
     }
 
-    async onReady() {
-        const readme = await this.parseReadme();
+    public splitResultForEmbed(result: IParsedResult): { officialResources: APIEmbedField[], communityResources: APIEmbedField[] } {
 
-        const communityResSplit = readme.communityResources.flatMap(resource => {
+        const officialResources = result.officialResources.split('\n').reduce((acc: string[], curr: string) => {
+            if (acc[acc.length - 1].length + curr.length > 1024) {
+                return [...acc, `${curr}\n`];
+            }
+            acc[acc.length - 1] += curr + '\n';
+            return acc;
+        }, [""] as string[]).map((value, index) => {
+            return {
+                name: "Official Resources" + (index === 0 ? '' : ` (Cont.)`),
+                value
+            }
+        }) as APIEmbedField[];
+
+        const communityResources = result.communityResources.flatMap(resource => {
             if (resource.items.length <= 1024) {
                 return [{
                     name: resource.category,
@@ -42,38 +54,54 @@ export default class DiscordBot extends Client {
 
         }) as APIEmbedField[];
 
-        const reverifyEmbed = new EmbedBuilder()
-            .setTitle('Reverify if you changed your username')
-            .setURL('https://oth.mirai.gg')
-            .setColor(0x00ff5d)
+        return {
+            officialResources,
+            communityResources
+        }
+    }
 
-        const officialResourcesEmbed = new EmbedBuilder()
-            .setColor('#ff66aa')
-            .setTimestamp(new Date())
-            .addFields([
-                { name: "Official Resources", value: readme.officialResources }
-            ])
-            .setFooter({ text: "Last updated: " })
+    async onReady() {
+        const readme = await this.parseReadme();
+        const resources = this.splitResultForEmbed(readme);
 
-        const communityResourcesEmbed = new EmbedBuilder()
-            .setTitle("Community Resources")
-            .setColor('#0099ff')
-            .setAuthor({ name: "Contribute to this list by filing a PR", url: "https://github.com/MiraiSubject/awesome-osu-tournaments" })
-            .setTimestamp(new Date())
-            .addFields(communityResSplit)
-            .setFooter({ text: "Last updated: " });
-        await this.channels.fetch(this.destinationChannelId);
+        try {
+            const reverifyEmbed = new EmbedBuilder()
+                .setTitle('Reverify if you changed your username')
+                .setURL('https://oth.mirai.gg')
+                .setColor(0x00ff5d)
 
-        const channel = this.channels.cache.get(this.destinationChannelId) as TextChannel;
-        channel.bulkDelete(100);
-        await channel.send({
-            embeds: [reverifyEmbed, officialResourcesEmbed, communityResourcesEmbed]
-        });
-        console.log("Sucessfully updated embeds in the discord channel");
+            const officialResourcesEmbed = new EmbedBuilder()
+                .setColor('#ff66aa')
+                .setTimestamp(new Date())
+                .addFields(resources.officialResources)
+                .setFooter({ text: "Last updated: " })
+
+            const communityResourcesEmbed = new EmbedBuilder()
+                .setTitle("Community Resources")
+                .setColor('#0099ff')
+                .setAuthor({ name: "Contribute to this list by filing a PR", url: "https://github.com/MiraiSubject/awesome-osu-tournaments" })
+                .setTimestamp(new Date())
+                .addFields(resources.communityResources)
+                .setFooter({ text: "Last updated: " });
+
+            await this.channels.fetch(this.destinationChannelId);
+
+            const channel = this.channels.cache.get(this.destinationChannelId) as TextChannel;
+            channel.bulkDelete(100);
+            await channel.send({
+                embeds: [reverifyEmbed, officialResourcesEmbed, communityResourcesEmbed]
+            });
+
+            console.log("Sucessfully updated embeds in the discord channel");
+        } catch (e) {
+            console.error(e);
+            process.exit(1);
+        }
+
         process.exit(0);
     }
 
-    private async parseReadme(): Promise<IParsedResult> {
+    public async parseReadme(): Promise<IParsedResult> {
         const readmeFile = await readFile('README.md', 'utf8');
         const lexed = marked.lexer(readmeFile);
         let currentHeading: ResourceCategory = ResourceCategory.Official
@@ -126,4 +154,6 @@ interface IParsedResult {
     }[];
 }
 
-new DiscordBot();
+new DiscordBot()
+
+
