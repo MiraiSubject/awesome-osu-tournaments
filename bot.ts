@@ -1,4 +1,4 @@
-import { Client, EmbedBuilder, APIEmbedField, GatewayIntentBits, TextChannel } from 'discord.js';
+import { Client, EmbedBuilder, APIEmbedField, GatewayIntentBits, TextChannel, Embed } from 'discord.js';
 import { readFile } from 'fs/promises';
 import { marked } from 'marked';
 require('dotenv').config()
@@ -64,6 +64,8 @@ export default class DiscordBot extends Client {
         const readme = await this.parseReadme();
         const resources = this.splitResultForEmbed(readme);
 
+        const embeds: EmbedBuilder[] = []
+
         try {
             const reverifyEmbed = new EmbedBuilder()
                 .setTitle('Reverify if you changed your username')
@@ -74,22 +76,35 @@ export default class DiscordBot extends Client {
                 .setColor('#ff66aa')
                 .setTimestamp(new Date())
                 .addFields(resources.officialResources)
-                .setFooter({ text: "Last updated: " })
-
-            const communityResourcesEmbed = new EmbedBuilder()
-                .setTitle("Community Resources")
-                .setColor('#0099ff')
-                .setAuthor({ name: "Contribute to this list by filing a PR", url: "https://github.com/MiraiSubject/awesome-osu-tournaments" })
-                .setTimestamp(new Date())
-                .addFields(resources.communityResources)
                 .setFooter({ text: "Last updated: " });
+
+            embeds.push(reverifyEmbed, officialResourcesEmbed);
+
+            // const communityResourcesEmbed = new EmbedBuilder()
+            //     .setTitle("Community Resources")
+            //     .setColor('#0099ff')
+            //     .setAuthor({ name: "Contribute to this list by filing a PR", url: "https://github.com/MiraiSubject/awesome-osu-tournaments" })
+            //     .setTimestamp(new Date())
+            //     .addFields(resources.communityResources)
+            //     .setFooter({ text: "Last updated: " });
+
+            for (const res of resources.communityResources) {
+                embeds.push(new EmbedBuilder()
+                    .setTitle(res.name)
+                    .setAuthor({ name: "Contribute to this list by filing a PR", url: "https://github.com/MiraiSubject/awesome-osu-tournaments" })
+                    .setColor('#0099ff')
+                    .setDescription(res.value)
+                    .setTimestamp(new Date())
+                    .setFooter({ text: "Last updated: " })
+                );
+            }
 
             await this.channels.fetch(this.destinationChannelId);
 
             const channel = this.channels.cache.get(this.destinationChannelId) as TextChannel;
             channel.bulkDelete(100);
             await channel.send({
-                embeds: [reverifyEmbed, officialResourcesEmbed, communityResourcesEmbed]
+                embeds
             });
 
             console.log("Sucessfully updated embeds in the discord channel");
