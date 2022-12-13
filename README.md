@@ -49,6 +49,7 @@ This is a collection of useful tools and resources for managing an osu! tourname
 - [Team management templates](https://drive.google.com/drive/folders/1MrQc2fFx-OERCHFiezdtvaP3PrtXKg31) (by RussianVaxei) - Track your team's statistics and availability using this collection of sheet templates.
 - [Tournament sheet templates](https://drive.google.com/drive/folders/1uB5uPs5__RcmuP0aHaUkUGHqeIUuObU7) (by Dio and LeoFLT) - Includes sheets for administration, mappooling, qualifiers, referees, statistics, tryouts, and team management.
 - [Tournament sheet templates](https://drive.google.com/drive/folders/1o20TAh-EAKkd3X4RBFrcLVwunKd4yZCV) (by HitomiChan) - Includes templates for mappooling, reffing, statistics, and player administration.
+- [Team tournament template](https://docs.google.com/spreadsheets/d/106hHlF1rslZlCqdZ96T0oGWfqblxQIbSJ2VBR0QmbDE/edit#gid=1190329295) (by Mario564) - Manage your team by keeping track of the team's availability, scores, lost and won maps and compare opponent's scores in previous rounds.
 
 ### Spreadsheet Scripts/Tools
 
