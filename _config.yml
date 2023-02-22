@@ -4,5 +4,6 @@ plugins:
 relative_links:
   enabled: true
   collections: true
+color_scheme: dark
 # include:
 #   - README.md
