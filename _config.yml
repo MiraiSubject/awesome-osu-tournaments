@@ -1,10 +1,15 @@
 remote_theme: just-the-docs/just-the-docs
+color_scheme: dark
 plugins:
   - jekyll-relative-links
+  - jekyll-readme-index
 relative_links:
   enabled: true
   collections: true
-color_scheme: dark
+readme_index:
+  enabled: true
+  remove_originals: true
+  with_frontmatter: false
 # Enable or disable the site search
 # Supports true (default) or false
 search_enabled: true
