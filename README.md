@@ -2,6 +2,15 @@
 
 This is a collection of useful tools and resources for managing an osu! tournament.
 
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
 ## Official Resources
 
 - [AppsScript Documentation](https://developers.google.com/apps-script/reference) - Information about Google AppsScript.
