@@ -56,8 +56,9 @@ This is a collection of useful tools and resources for managing an osu! tourname
 - [Player and staffing history sheet template](https://docs.google.com/spreadsheets/d/1Ogu0Lw2JGR-WxuJav7IJd6hWAHOc0roaluCX1ROfplE) (by HitomiChan) - You can track current and past tournaments that you have participated in as either staff or player.
 - [Referee sheets](https://drive.google.com/drive/folders/1sYTvq80pB1AESD-e_w6G-lrT02uzLO9O) (by RussianVaxei) - Includes templates for overseeing qualifiers and matches.
 - [Team management templates](https://drive.google.com/drive/folders/1MrQc2fFx-OERCHFiezdtvaP3PrtXKg31) (by RussianVaxei) - Track your team's statistics and availability using this collection of sheet templates.
-- [Tournament sheet templates](https://drive.google.com/drive/folders/1uB5uPs5__RcmuP0aHaUkUGHqeIUuObU7) (by Dio and LeoFLT) - Includes sheets for administration, mappooling, qualifiers, referees, statistics, tryouts, and team management.
-- [Tournament sheet templates](https://drive.google.com/drive/folders/1o20TAh-EAKkd3X4RBFrcLVwunKd4yZCV) (by HitomiChan) - Includes templates for mappooling, reffing, statistics, and player administration.
+- [Dio and LeoFLT's tournament sheet templates](https://drive.google.com/drive/folders/1uB5uPs5__RcmuP0aHaUkUGHqeIUuObU7) (by Dio and LeoFLT) - Includes sheets for administration, mappooling, qualifiers, referees, statistics, tryouts, and team management.
+- [HitomiChan's tournament sheet templates](https://drive.google.com/drive/folders/1o20TAh-EAKkd3X4RBFrcLVwunKd4yZCV) (by HitomiChan) - Includes templates for mappooling, reffing, statistics, and player administration.
+- [Nathaniel's tournament sheet templates](https://drive.google.com/drive/u/1/folders/1OWK7WxQlVQQmeNdI3X7mxvGA8vywKDUB) (by Nathaniel) - Includes 1v1 templates for administration, mappooling, and reffing, as well as a BBCode forum post generator.
 - [Team tournament template](https://docs.google.com/spreadsheets/d/106hHlF1rslZlCqdZ96T0oGWfqblxQIbSJ2VBR0QmbDE) (by Mario564) - Manage your team by keeping track of the team's availability, scores, lost and won maps and compare opponent's scores in previous rounds.
 - [Player tournament history sheet template](https://docs.google.com/spreadsheets/d/18UWiooGGDMMkltJGm_Td1b72MVRnQQ5ceS21w2zm16U) (by Squink) - Display tournament history data in an organized manner with additional teammate data automatically updated on the side.
 
@@ -70,7 +71,6 @@ This is a collection of useful tools and resources for managing an osu! tourname
 - [bancho.js](https://bancho.js.org) (by ThePoon) - JS Library for interfacing with Bancho over IRC.
 - [passport-osu](https://github.com/MiraiSubject/passport-osu) (by MiraiSubject) - osu! authentication strategy for Passport and Node.js.
 - [osu! provider for NextAuth.js](https://next-auth.js.org/providers/osu) (by NextAuth.js [Contributors](https://github.com/nextauthjs/next-auth/commits/main/packages/next-auth/src/providers/osu.ts)) - osu! authentication provider for NextAuth and Next.js
-- [Tournament sheet templates](https://drive.google.com/drive/u/1/folders/1OWK7WxQlVQQmeNdI3X7mxvGA8vywKDUB) (by Nathaniel) - Includes 1v1 templates for administrationm, mappooling, and reffing, as well as a BBCode forum post generator.
 
 ### Website Templates
 - [Tournament Verification System](https://github.com/MiraiSubject/oth-verification) (by MiraiSubject) - Verify players for your tournament and join them to your Tournament server securely!
