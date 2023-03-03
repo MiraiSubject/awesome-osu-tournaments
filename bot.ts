@@ -1,7 +1,7 @@
-import { Client, EmbedBuilder, APIEmbedField, GatewayIntentBits, TextChannel } from 'discord.js';
+import { Client, EmbedBuilder, APIEmbedField, GatewayIntentBits, TextChannel, Embed, ColorResolvable, EmbedData } from 'discord.js';
 import { readFile } from 'fs/promises';
 import { marked } from 'marked';
-require('dotenv').config()
+require('dotenv').config();
 export default class DiscordBot extends Client {
 
     private destinationChannelId = process.env.DISCORD_CHANNEL_ID!;
@@ -16,6 +16,21 @@ export default class DiscordBot extends Client {
         this.login(process.env.DISCORD_TOKEN);
     }
 
+    splitCategoryByCharLimit(limit: number, input: string, subcategory?: string): [number, APIEmbedField[]] {
+        return [input.length, input.split('\n').reduce((acc, curr) => {
+            if (acc[acc.length - 1].length + curr.length > limit) {
+                return [...acc, curr];
+            }
+            acc[acc.length - 1] += ("\n" + curr);
+            return acc;
+        }, [""] as string[]).map((value, index) => {
+            return {
+                name: `${subcategory || ''}${index === 0 ? '' : ` (Cont.)`}`,
+                value
+            }
+        })];
+    }
+
     async onReady() {
         const readme = await this.parseReadme();
 
@@ -27,20 +42,12 @@ export default class DiscordBot extends Client {
                 }]
             }
 
-            return resource.items.split('\n').reduce((acc, curr) => {
-                if (acc[acc.length - 1].length + curr.length > 1024) {
-                    return [...acc, curr];
-                }
-                acc[acc.length - 1] += ("\n" + curr);
-                return acc;
-            }, [""] as string[]).map((value, index) => {
-                return {
-                    name: resource.category + (index === 0 ? '' : ` (Cont.)`),
-                    value
-                }
-            });
+            return this.splitCategoryByCharLimit(1024, resource.items, resource.category)[1];
+        });
 
-        }) as APIEmbedField[];
+        const [offResLength, officialResSplit] = this.splitCategoryByCharLimit(1024, readme.officialResources, "Official Resources");
+
+        console.log(communityResSplit);
 
         const reverifyEmbed = new EmbedBuilder()
             .setTitle('Reverify if you changed your username')
@@ -50,9 +57,7 @@ export default class DiscordBot extends Client {
         const officialResourcesEmbed = new EmbedBuilder()
             .setColor('#ff66aa')
             .setTimestamp(new Date())
-            .addFields([
-                { name: "Official Resources", value: readme.officialResources }
-            ])
+            .addFields(officialResSplit)
             .setFooter({ text: "Last updated: " })
 
         const communityResourcesEmbed = new EmbedBuilder()
