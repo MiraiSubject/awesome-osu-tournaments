@@ -89,7 +89,7 @@ This is a collection of useful tools and resources for managing an osu! tourname
 - [Regex for Discord Handles and osu! User IDs](https://gist.github.com/DRCallaghan/8d394d0b510f75fa58c2267cd1e4da32) (by Dio) - A text guide on using regular expressions to control registration form input.
 
 ### Website Templates
-- [Tournament Verification System](https://github.com/MiraiSubject/oth-verification) (by MiraiSubject) - Verify players for your tournament and join them to your Tournament server securely!
+- [Cosette Lite](https://github.com/MiraiSubject/cosette-lite) (by MiraiSubject) - Verify players for your tournament and join them to your Tournament server securely!
 
 ### Tournament Overlay Templates
 - [VCL Tournament Overlay - Lazer edition](https://github.com/vncommunityleague/vcl-tournament-overlay) (by Hoaq) - Gosumemory-compatible 1v1 tournament overlay, made to reduce headache of setting up Lazer tournament client.
