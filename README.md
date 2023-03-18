@@ -48,6 +48,7 @@ This is a collection of useful tools and resources for managing an osu! tourname
 - [BanchoSharp](https://github.com/hburn7/banchosharp) (by Stage) - C# library that manages connecting to osu!Bancho and automatically manages multiplayer lobbies. Used by Brigitta and Bancho Multiplayer Bot.
 - [passport-osu](https://github.com/MiraiSubject/passport-osu) (by MiraiSubject) - osu! authentication strategy for Passport and Node.js.
 - [osu! provider for NextAuth.js](https://next-auth.js.org/providers/osu) (by NextAuth.js [Contributors](https://github.com/nextauthjs/next-auth/commits/main/packages/next-auth/src/providers/osu.ts)) - osu! authentication provider for NextAuth and Next.js
+- [osu.js](https://osu-js.onrender.com) (by Mario564) - An unofficial Javascript and Typescript SDK for the browser-facing portion of osu! with type safety in mind.
 
 ### Spreadsheet Scripts/Tools
 
