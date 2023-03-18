@@ -42,6 +42,12 @@ This is a collection of useful tools and resources for managing an osu! tourname
 - [Maps listed by skillset](https://docs.google.com/spreadsheets/d/1wPkqXQoVZUATwWfkEbzPnk_Nr3NJ-FpIxFyjzPL11XA) (by unknown) - Ranges from 4* - 8* pools. Note that this doesn't mean a skillset shoud be confined to the slot given in the sheet.
 - [osu! Tournament Union Mappool Database Tool](https://otu.stagec.xyz/) (by Stage, HitomiChan_ in collaboration with Dominick, 112servis) - Interactive tool for finding maps of specific parameters and skillsets.
 
+### Development
+- [bancho.js](https://bancho.js.org) (by ThePoon) - JS Library for interfacing with Bancho over IRC.
+- [BanchoSharp](https://github.com/hburn7/banchosharp) (by Stage) - C# library that manages connecting to osu!Bancho and automatically manages multiplayer lobbies. Used by Brigitta and Bancho Multiplayer Bot.
+- [passport-osu](https://github.com/MiraiSubject/passport-osu) (by MiraiSubject) - osu! authentication strategy for Passport and Node.js.
+- [osu! provider for NextAuth.js](https://next-auth.js.org/providers/osu) (by NextAuth.js [Contributors](https://github.com/nextauthjs/next-auth/commits/main/packages/next-auth/src/providers/osu.ts)) - osu! authentication provider for NextAuth and Next.js
+
 ### Tools
 - IRC:
     - [chat4osu!](https://osu.ppy.sh/community/forums/topics/879262) (by hallowatcher) - IRC chat client for referees and casual chatters.
@@ -51,10 +57,6 @@ This is a collection of useful tools and resources for managing an osu! tourname
     - [Bancho Multiplayer Bot](https://github.com/matte-ek/BanchoMultiplayerBot) (by matte-ek) - Tool for creating multiplayer lobbies and automating them.
 
 - [gosumemory!](https://github.com/l3lackShark/gosumemory) (by l3lackShark) - Cross-Platform memory reader.
-
-
-### Libraries
-- [BanchoSharp](https://github.com/hburn7/banchosharp) (by Stage) - C# library that manages connecting to osu!Bancho and automatically manages multiplayer lobbies. Used by Brigitta and Bancho Multiplayer Bot.
 
 ### Spreadsheet Templates
 
@@ -74,11 +76,6 @@ This is a collection of useful tools and resources for managing an osu! tourname
 - [osu! api fetch stuff for google scripts](https://gist.github.com/omkelderman/037342ca6612140197d0bb6f19328884) (by oliebol) - Sample code to interface with the osu! api using Google Sheets
 - [bracket.json Team Generator](https://github.com/Coppertine/BracketJsonTeamsGen) (by Coppertine) - Fills the Teams, Seeding Results and Seed placements for all teams in a HitomiChan_ V4 Stats sheet after qualifiers.
 
-### Web Development
-- [bancho.js](https://bancho.js.org) (by ThePoon) - JS Library for interfacing with Bancho over IRC.
-- [passport-osu](https://github.com/MiraiSubject/passport-osu) (by MiraiSubject) - osu! authentication strategy for Passport and Node.js.
-- [osu! provider for NextAuth.js](https://next-auth.js.org/providers/osu) (by NextAuth.js [Contributors](https://github.com/nextauthjs/next-auth/commits/main/packages/next-auth/src/providers/osu.ts)) - osu! authentication provider for NextAuth and Next.js
-
 ### Website Templates
 - [Tournament Verification System](https://github.com/MiraiSubject/oth-verification) (by MiraiSubject) - Verify players for your tournament and join them to your Tournament server securely!
 
@@ -89,7 +86,6 @@ This is a collection of useful tools and resources for managing an osu! tourname
 - [VCL Tournament Overlay - Lazer edition](https://github.com/vncommunityleague/vcl-tournament-overlay) (by Hoaq) - Gosumemory-compatible 1v1 tournament overlay, made to reduce headache of setting up Lazer tournament client.
 
 ### Tutorials
-
 - [How to Set Up the osu! Tournament Client](https://youtu.be/Zg5TmlacCg4) (by Dio) - A video tutorial on setting up and using the osu! tournament client.
 - [How to Set Up and Use the osu! Lazer Tournament Client](https://youtu.be/l_nFynsxKRs) (by Dio) - A lengthy video tutorial on setting up and using the osu!lazer tournament client.
 - [Tournament Hosting Guide](https://docs.google.com/document/d/1aveFDrzwC9TiRrHAsDfRW0bVSKs3JY-v8TNmN0kB484/) (by Fairy Bread a.k.a. ill onion) - The longest plain-text guide on hosting and staffing osu! tournaments, covering basically every aspect for Standard tournaments and all aspects besides mappooling for other game mode tournaments.
