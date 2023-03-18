@@ -40,6 +40,7 @@ This is a collection of useful tools and resources for managing an osu! tourname
   - [2021](https://docs.google.com/spreadsheets/u/1/d/1DWMoBsy8Sh39j65ix6OTs19qbZOzH_zSTgzFgqid7YQ) (by DizzyH)
   - [2022](https://docs.google.com/spreadsheets/d/1IobdnWKVKcMD-kk7UpAk_diSf6HSI9GVwG500W-jdqY) (by DizzyH)
 - [Maps listed by skillset](https://docs.google.com/spreadsheets/d/1wPkqXQoVZUATwWfkEbzPnk_Nr3NJ-FpIxFyjzPL11XA) (by unknown) - Ranges from 4* - 8* pools. Note that this doesn't mean a skillset shoud be confined to the slot given in the sheet.
+- [osu! Tournament & Map Database](https://otmd.konotorii.com) (by Konotorii) - Tournament map database targetting easier pooling for mappoolers.
 - [osu! Tournament Union Mappool Database Tool](https://otu.stagec.xyz/) (by Stage, HitomiChan_ in collaboration with Dominick, 112servis) - Interactive tool for finding maps of specific parameters and skillsets.
 
 ### Development
@@ -86,9 +87,6 @@ This is a collection of useful tools and resources for managing an osu! tourname
 - [Pooling for 6 Digits](https://docs.google.com/document/d/10HMPaSnTgQ8OjedlzobFBCB_EyqDBayUqL1Us7iUC7I/) (by Quag) - A mappooling guide for the 6 digit rank range.
 - [Refereeing Guide](https://docs.google.com/document/d/1CDZCOS1xHFFI6rotEJqPsYfnGBgjGlZk8FNxMDWzOmg/) (by Yazzehh) - A text guide on refereeing, including tournament client setup for live-spectating any match you happen to be reffing.
 - [Regex for Discord Handles and osu! User IDs](https://gist.github.com/DRCallaghan/8d394d0b510f75fa58c2267cd1e4da32) (by Dio) - A text guide on using regular expressions to control registration form input.
-
-### Websites
-- [osu! Tournament & Map Database](https://otmd.konotorii.com) (by Konotorii) - Tournament map database targetting easier pooling for mappoolers.
 
 ### Website Templates
 - [Tournament Verification System](https://github.com/MiraiSubject/oth-verification) (by MiraiSubject) - Verify players for your tournament and join them to your Tournament server securely!
