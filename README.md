@@ -71,7 +71,7 @@ This is a collection of useful tools and resources for managing an osu! tourname
 - IRC:
     - [chat4osu!](https://osu.ppy.sh/community/forums/topics/879262) (by hallowatcher) - IRC chat client for referees and casual chatters.
     - [Brigitta](https://github.com/hburn7/Brigitta) (by Stage) - IRC client made specifically for tournament referees - primary attraction is detailed interactive display while reffing.
-    - [Script chan](https://osu.ppy.sh/community/forums/topics/730734) - Referee tool to create and manage lobbies.
+    - [Script chan](https://osu.ppy.sh/community/forums/topics/730734) (by shARPII) - Referee tool to create and manage lobbies.
 
     - [Bancho Multiplayer Bot](https://github.com/matte-ek/BanchoMultiplayerBot) (by matte-ek) - Tool for creating multiplayer lobbies and automating them.
 
