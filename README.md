@@ -48,15 +48,10 @@ This is a collection of useful tools and resources for managing an osu! tourname
 - [passport-osu](https://github.com/MiraiSubject/passport-osu) (by MiraiSubject) - osu! authentication strategy for Passport and Node.js.
 - [osu! provider for NextAuth.js](https://next-auth.js.org/providers/osu) (by NextAuth.js [Contributors](https://github.com/nextauthjs/next-auth/commits/main/packages/next-auth/src/providers/osu.ts)) - osu! authentication provider for NextAuth and Next.js
 
-### Tools
-- IRC:
-    - [chat4osu!](https://osu.ppy.sh/community/forums/topics/879262) (by hallowatcher) - IRC chat client for referees and casual chatters.
-    - [Brigitta](https://github.com/hburn7/Brigitta) (by Stage) - IRC client made specifically for tournament referees - primary attraction is detailed interactive display while reffing.
-    - [Script chan](https://osu.ppy.sh/community/forums/topics/730734) - Referee tool to create and manage lobbies.
+### Spreadsheet Scripts/Tools
 
-    - [Bancho Multiplayer Bot](https://github.com/matte-ek/BanchoMultiplayerBot) (by matte-ek) - Tool for creating multiplayer lobbies and automating them.
-
-- [gosumemory!](https://github.com/l3lackShark/gosumemory) (by l3lackShark) - Cross-Platform memory reader.
+- [osu! api fetch stuff for google scripts](https://gist.github.com/omkelderman/037342ca6612140197d0bb6f19328884) (by oliebol) - Sample code to interface with the osu! api using Google Sheets
+- [bracket.json Team Generator](https://github.com/Coppertine/BracketJsonTeamsGen) (by Coppertine) - Fills the Teams, Seeding Results and Seed placements for all teams in a HitomiChan_ V4 Stats sheet after qualifiers.
 
 ### Spreadsheet Templates
 
@@ -71,19 +66,15 @@ This is a collection of useful tools and resources for managing an osu! tourname
 - [Team tournament template](https://docs.google.com/spreadsheets/d/106hHlF1rslZlCqdZ96T0oGWfqblxQIbSJ2VBR0QmbDE) (by Mario564) - Manage your team by keeping track of the team's availability, scores, lost and won maps and compare opponent's scores in previous rounds.
 - [Player tournament history sheet template](https://docs.google.com/spreadsheets/d/18UWiooGGDMMkltJGm_Td1b72MVRnQQ5ceS21w2zm16U) (by Squink) - Display tournament history data in an organized manner with additional teammate data automatically updated on the side.
 
-### Spreadsheet Scripts/Tools
+### Tools
+- IRC:
+    - [chat4osu!](https://osu.ppy.sh/community/forums/topics/879262) (by hallowatcher) - IRC chat client for referees and casual chatters.
+    - [Brigitta](https://github.com/hburn7/Brigitta) (by Stage) - IRC client made specifically for tournament referees - primary attraction is detailed interactive display while reffing.
+    - [Script chan](https://osu.ppy.sh/community/forums/topics/730734) - Referee tool to create and manage lobbies.
 
-- [osu! api fetch stuff for google scripts](https://gist.github.com/omkelderman/037342ca6612140197d0bb6f19328884) (by oliebol) - Sample code to interface with the osu! api using Google Sheets
-- [bracket.json Team Generator](https://github.com/Coppertine/BracketJsonTeamsGen) (by Coppertine) - Fills the Teams, Seeding Results and Seed placements for all teams in a HitomiChan_ V4 Stats sheet after qualifiers.
+    - [Bancho Multiplayer Bot](https://github.com/matte-ek/BanchoMultiplayerBot) (by matte-ek) - Tool for creating multiplayer lobbies and automating them.
 
-### Website Templates
-- [Tournament Verification System](https://github.com/MiraiSubject/oth-verification) (by MiraiSubject) - Verify players for your tournament and join them to your Tournament server securely!
-
-### Websites
-- [osu! Tournament & Map Database](https://otmd.konotorii.com) (by Konotorii) - Tournament map database targetting easier pooling for mappoolers.
-
-### Tournament Overlay Templates
-- [VCL Tournament Overlay - Lazer edition](https://github.com/vncommunityleague/vcl-tournament-overlay) (by Hoaq) - Gosumemory-compatible 1v1 tournament overlay, made to reduce headache of setting up Lazer tournament client.
+- [gosumemory!](https://github.com/l3lackShark/gosumemory) (by l3lackShark) - Cross-Platform memory reader.
 
 ### Tutorials
 - [How to Set Up the osu! Tournament Client](https://youtu.be/Zg5TmlacCg4) (by Dio) - A video tutorial on setting up and using the osu! tournament client.
@@ -95,3 +86,12 @@ This is a collection of useful tools and resources for managing an osu! tourname
 - [Pooling for 6 Digits](https://docs.google.com/document/d/10HMPaSnTgQ8OjedlzobFBCB_EyqDBayUqL1Us7iUC7I/) (by Quag) - A mappooling guide for the 6 digit rank range.
 - [Refereeing Guide](https://docs.google.com/document/d/1CDZCOS1xHFFI6rotEJqPsYfnGBgjGlZk8FNxMDWzOmg/) (by Yazzehh) - A text guide on refereeing, including tournament client setup for live-spectating any match you happen to be reffing.
 - [Regex for Discord Handles and osu! User IDs](https://gist.github.com/DRCallaghan/8d394d0b510f75fa58c2267cd1e4da32) (by Dio) - A text guide on using regular expressions to control registration form input.
+
+### Websites
+- [osu! Tournament & Map Database](https://otmd.konotorii.com) (by Konotorii) - Tournament map database targetting easier pooling for mappoolers.
+
+### Website Templates
+- [Tournament Verification System](https://github.com/MiraiSubject/oth-verification) (by MiraiSubject) - Verify players for your tournament and join them to your Tournament server securely!
+
+### Tournament Overlay Templates
+- [VCL Tournament Overlay - Lazer edition](https://github.com/vncommunityleague/vcl-tournament-overlay) (by Hoaq) - Gosumemory-compatible 1v1 tournament overlay, made to reduce headache of setting up Lazer tournament client.
