@@ -28,8 +28,8 @@ This is a collection of useful tools and resources for managing an osu! tourname
 ### Automation/Bots
 
 - [Player avatar download bulk tool](https://git.omkserver.nl/omkelderman/player-avatar-download-bulk-tool) (by oliebol) - Download osu! avatar images in bulk so you can use them in places like osu!lazer.
-
 - [Tosurnament](https://github.com/SpartanPlume/Tosurnament) (by SpartanPlume) - Discord bot that automates most Discord/spreadsheet relationships.
+- [osu! Lazer Tournament Client Bracket Generator CLI](https://github.com/DRCallaghan/osu-lazer-qualifier-results-bracket-generator) (by D I O) - Command-line interfacing program for automatically generating a complete bracket.json file for the osu! Lazer tournament client by taking qualifier results, player and team information, qualifier pool information, and tournament information.
 
 ### Databases
 
