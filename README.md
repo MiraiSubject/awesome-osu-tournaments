@@ -22,6 +22,8 @@ This is a collection of useful tools and resources for managing an osu! tourname
 - [osu!tournament client](https://osu.ppy.sh/wiki/en/osu%21_tournament_client) - Information about the usage and setup of the tournament client in osu!lazer.
 - [Tournaments](https://osu.ppy.sh/wiki/en/Tournaments) - List of official and community hosted osu! tournaments on the osu!wiki.
 - [Tournaments sub-forum](https://osu.ppy.sh/community/forums/55) - Dedicated subforum for promoting and/or participating in osu! tournaments.
+- [Official Tournament Support](https://osu.ppy.sh/wiki/en/Tournaments/Official_support) - The official wiki entry for badged tournament support and all its conditions.
+- [Official Tournament Support Updates](https://osu.ppy.sh/community/forums/topics/1715676?n=1) - A thread of all changes to the above wiki starting in February 2023.
 
 ## Community Resources
 
