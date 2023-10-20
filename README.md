@@ -68,7 +68,7 @@ This is a collection of useful tools and resources for managing an osu! tourname
 - [Nathaniel's tournament sheet templates](https://drive.google.com/drive/u/1/folders/1OWK7WxQlVQQmeNdI3X7mxvGA8vywKDUB) (by Nathaniel) - Includes 1v1 templates for administration, mappooling, and reffing, as well as a BBCode forum post generator.
 - [Team tournament template](https://docs.google.com/spreadsheets/d/106hHlF1rslZlCqdZ96T0oGWfqblxQIbSJ2VBR0QmbDE) (by Mario564) - Manage your team by keeping track of the team's availability, scores, lost and won maps and compare opponent's scores in previous rounds.
 - [Player tournament history sheet template](https://docs.google.com/spreadsheets/d/18UWiooGGDMMkltJGm_Td1b72MVRnQQ5ceS21w2zm16U) (by Squink) - Display tournament history data in an organized manner with additional teammate data automatically updated on the side.
-- [bracket.json Template](https://drive.google.com/drive/folders/1nQCujQAnoeCRQVSa4w6sEfwiNvt0USm2) (by BCraftMG) - Empty bracket.json for use with Lazer. Include Ro64-Ro16 Single/Double Elimination
+- [bracket.json Template](https://drive.google.com/drive/folders/1nQCujQAnoeCRQVSa4w6sEfwiNvt0USm2) (by BCraftMG) - Empty bracket.json for use with Lazer. Includes Ro64-Ro16 Single/Double Elimination
 
 ### Tools
 - IRC:
