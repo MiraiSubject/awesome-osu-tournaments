@@ -9,7 +9,7 @@ This is a collection of useful tools and resources for managing an osu! tourname
   {: .text-delta }
 1. TOC
 {:toc}
-
+</details>
 
 ## Official Resources
 
