@@ -2,31 +2,13 @@
 
 This is a collection of useful tools and resources for managing an osu! tournament.
 
-<details open markdown="block"> 
-  <summary>Table of Contents</summary>
-  <br/>
-    <details close markdown="block"> 
-      <summary>Official Resources</summary>
-      
-   * [Development/API](#developmentapi)
-   * [Official Support](#official-support)
-   * [Clients](#clients)
-   * [Wiki/Forum](#wikiforum)
-  </details>
-  <details close markdown="block">
-    <summary>Community Resources</summary>
-      
-   * [Automation/Bots](#automationbots)
-   * [Databases](#databases)
-   * [Development](#development)
-   * [Spreadsheet Scripts/Tools](#spreadsheet-scriptstools)
-   * [Templates](#templates)
-   * [Tools](#tools)
-   * [Tutorials](#tutorials)
-   * [Website Templates](#website-templates)
-   * [Tournament Overlay Templates](#tournament-overlay-templates)
-</details>
-</details>
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
 
 
 ## Official Resources
