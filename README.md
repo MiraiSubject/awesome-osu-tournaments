@@ -13,17 +13,24 @@ This is a collection of useful tools and resources for managing an osu! tourname
 
 ## Official Resources
 
+### Development/API
 - [AppsScript Documentation](https://developers.google.com/apps-script/reference) - Information about Google AppsScript.
 - [Google Sheets Function Documentation](https://support.google.com/docs/table/25273?hl=en) - Information about every single Google Sheets function.
-- [Official tournament support](https://osu.ppy.sh/wiki/en/Tournaments/Official_support) - Information about screening, badging and main-menu banners.
 - [osu-api v1 Documentation](https://github.com/ppy/osu-api/wiki) - Information about interfacing with osu! API v1.
 - [osu-api v2 Documentation](https://docs.ppy.sh) - Information about interfacing with osu! API v2.
+
+### Official Support
+- [Official tournament support](https://osu.ppy.sh/wiki/en/Tournaments/Official_support) - Information about screening, badging and main-menu banners.
+- [Official Tournament Support Updates](https://osu.ppy.sh/community/forums/topics/1715676?n=1) - A thread of all changes to the above wiki starting in February 2023.
+
+### Clients
 - [osu!tourney](https://osu.ppy.sh/wiki/en/osu%21_tournament_client/osu%21tourney) - Information about the usage and setup osu!tourney (also referred to tourney client, stable tourney client, etc).
 - [osu!tournament client](https://osu.ppy.sh/wiki/en/osu%21_tournament_client) - Information about the usage and setup of the tournament client in osu!lazer.
+
+### Wiki/Forum
 - [Tournaments](https://osu.ppy.sh/wiki/en/Tournaments) - List of official and community hosted osu! tournaments on the osu!wiki.
 - [Tournaments sub-forum](https://osu.ppy.sh/community/forums/55) - Dedicated subforum for promoting and/or participating in osu! tournaments.
-- [Official Tournament Support](https://osu.ppy.sh/wiki/en/Tournaments/Official_support) - The official wiki entry for badged tournament support and all its conditions.
-- [Official Tournament Support Updates](https://osu.ppy.sh/community/forums/topics/1715676?n=1) - A thread of all changes to the above wiki starting in February 2023.
+
 
 ## Community Resources
 
@@ -79,6 +86,7 @@ This is a collection of useful tools and resources for managing an osu! tourname
     - [Bancho Multiplayer Bot](https://github.com/matte-ek/BanchoMultiplayerBot) (by matte-ek) - Tool for creating multiplayer lobbies and automating them.
 
 - [gosumemory!](https://github.com/l3lackShark/gosumemory) (by l3lackShark) - Cross-Platform memory reader.
+- [tosu](https://github.com/KotRikD/tosu) (by KotRikD) - Eponymous software for reading osu! memory, accounting for most of gosumemory's issues.
 
 ### Tutorials
 - [Various Tournament Video Tutorials](https://www.youtube.com/playlist?list=PLTMORxHOcedL9Wpr1zdnjKh4KKopsHm4-) (by Dio) - A series of tournament video tutorials on a variety of topics, including the tournament client, the lazer client, streaming, reffing, sheeting, and more. Receives periodic updates with new videos.
@@ -94,4 +102,4 @@ This is a collection of useful tools and resources for managing an osu! tourname
 - [Cosette Lite](https://github.com/MiraiSubject/cosette-lite) (by MiraiSubject) - Verify players for your tournament and join them to your Tournament server securely!
 
 ### Tournament Overlay Templates
-- [VCL Tournament Overlay - Lazer edition](https://github.com/vncommunityleague/vcl-tournament-overlay) (by Hoaq) - Gosumemory-compatible 1v1 tournament overlay, made to reduce headache of setting up Lazer tournament client.
+- [VCL Tournament Overlay - Lazer edition](https://github.com/vncommunityleague/vcl-tournament-overlay) (by Hoaq) - Gosumemory-compatible tournament overlay, made to simplifies the trouble with setting up Lazer overlay. Supports both score and accuracy win conditions.
