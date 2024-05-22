@@ -102,4 +102,6 @@ This is a collection of useful tools and resources for managing an osu! tourname
 - [Cosette Lite](https://github.com/MiraiSubject/cosette-lite) (by MiraiSubject) - Verify players for your tournament and join them to your Tournament server securely!
 
 ### Tournament Overlay Templates
-- [VCL Tournament Overlay - Lazer edition](https://github.com/vncommunityleague/vcl-tournament-overlay) (by Hoaq) - Gosumemory-compatible tournament overlay, made to simplifies the trouble with setting up Lazer overlay. Supports both score and accuracy win conditions.
+- VCL Tournament Overlay - Lazer edition (by Hoaq) - A template overlay compatible with Gosumemory / Tosu, made to simplify the trouble with setting up Lazer overlay. Supports both score and accuracy win conditions.
+  - [Gosumemory version](https://github.com/vncommunityleague/vcl-tournament-overlay-gosumemory/) - deprecated
+  - [Tosu version](https://github.com/vncommunityleague/vcl-tournament-overlay-tosu/) - recommended
