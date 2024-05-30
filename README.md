@@ -87,6 +87,7 @@ This is a collection of useful tools and resources for managing an osu! tourname
 
 - [gosumemory!](https://github.com/l3lackShark/gosumemory) (by l3lackShark) - Cross-Platform memory reader.
 - [tosu](https://github.com/KotRikD/tosu) (by KotRikD) - Eponymous software for reading osu! memory, accounting for most of gosumemory's issues.
+- [osu! Tourney Match Displayer](https://otmd.app) (by Akinari) - Software for showing current tournament multiplayer games in your livestream!
 
 ### Tutorials
 - [Various Tournament Video Tutorials](https://www.youtube.com/playlist?list=PLTMORxHOcedL9Wpr1zdnjKh4KKopsHm4-) (by Dio) - A series of tournament video tutorials on a variety of topics, including the tournament client, the lazer client, streaming, reffing, sheeting, and more. Receives periodic updates with new videos.
