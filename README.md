@@ -31,7 +31,6 @@ This is a collection of useful tools and resources for managing an osu! tourname
 - [Tournaments](https://osu.ppy.sh/wiki/en/Tournaments) - List of official and community hosted osu! tournaments on the osu!wiki.
 - [Tournaments sub-forum](https://osu.ppy.sh/community/forums/55) - Dedicated subforum for promoting and/or participating in osu! tournaments.
 
-
 ## Community Resources
 
 ### Automation/Bots
@@ -43,11 +42,11 @@ This is a collection of useful tools and resources for managing an osu! tourname
 ### Databases
 
 - Badged Tournaments:
-  - Mappools only:
-    - [2019 5 Digit](https://docs.google.com/spreadsheets/d/1oaGrmsbHr9L60AgaKTz3_fuvJB7Sjxzxweakm_Uu3Y8) (by unknown)
-  - [2020](https://docs.google.com/spreadsheets/u/1/d/1nLhUJwHgb0ptksMqWIKRo01L0xiQ-xG7kTr3nhBldLI) (by DizzyH and Mirthille)
-  - [2021](https://docs.google.com/spreadsheets/u/1/d/1DWMoBsy8Sh39j65ix6OTs19qbZOzH_zSTgzFgqid7YQ) (by DizzyH)
-  - [2022](https://docs.google.com/spreadsheets/d/1IobdnWKVKcMD-kk7UpAk_diSf6HSI9GVwG500W-jdqY) (by DizzyH)
+  - Mappools:
+    - [Badged tournaments (2019, 5 digit only)](https://docs.google.com/spreadsheets/d/1oaGrmsbHr9L60AgaKTz3_fuvJB7Sjxzxweakm_Uu3Y8) (by unknown)
+    - [Badged tournaments (2020)](https://docs.google.com/spreadsheets/u/1/d/1nLhUJwHgb0ptksMqWIKRo01L0xiQ-xG7kTr3nhBldLI) (by DizzyH and Mirthille)
+    - [Badged tournaments (2021)](https://docs.google.com/spreadsheets/u/1/d/1DWMoBsy8Sh39j65ix6OTs19qbZOzH_zSTgzFgqid7YQ) (by DizzyH)
+    - [Badged tournaments (2022)](https://docs.google.com/spreadsheets/d/1IobdnWKVKcMD-kk7UpAk_diSf6HSI9GVwG500W-jdqY) (by DizzyH)
 - [Maps listed by skillset](https://docs.google.com/spreadsheets/d/1wPkqXQoVZUATwWfkEbzPnk_Nr3NJ-FpIxFyjzPL11XA) (by unknown) - Ranges from 4* - 8* pools. Note that this doesn't mean a skillset shoud be confined to the slot given in the sheet.
 - [osu! Tournament & Map Database](https://otmd.konotorii.com) (by Konotorii) - Tournament map database targetting easier pooling for mappoolers.
 - [osu! Tournament Union Mappool Database Tool](https://otu.stagec.xyz/) (by Stage, HitomiChan_ in collaboration with Dominick, 112servis, and o!TU database staff) - Interactive tool for finding maps of specific parameters and skillsets.
@@ -82,9 +81,7 @@ This is a collection of useful tools and resources for managing an osu! tourname
     - [chat4osu!](https://osu.ppy.sh/community/forums/topics/879262) (by hallowatcher) - IRC chat client for referees and casual chatters.
     - [Brigitta](https://github.com/hburn7/Brigitta) (by Stage) - IRC client made specifically for tournament referees - primary attraction is detailed interactive display while reffing.
     - [Script chan](https://osu.ppy.sh/community/forums/topics/730734) (by shARPII) - Referee tool to create and manage lobbies.
-
     - [Bancho Multiplayer Bot](https://github.com/matte-ek/BanchoMultiplayerBot) (by matte-ek) - Tool for creating multiplayer lobbies and automating them.
-
 - [gosumemory!](https://github.com/l3lackShark/gosumemory) (by l3lackShark) - Cross-Platform memory reader.
 - [tosu](https://github.com/KotRikD/tosu) (by KotRikD) - Eponymous software for reading osu! memory, accounting for most of gosumemory's issues.
 - [osu! Tourney Match Displayer](https://otmd.app) (by Akinari) - Software for showing current tournament multiplayer games in your livestream!
