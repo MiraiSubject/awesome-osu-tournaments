@@ -22,6 +22,7 @@ This is a collection of useful tools and resources for managing an osu! tourname
 ### Official Support
 - [Official tournament support](https://osu.ppy.sh/wiki/en/Tournaments/Official_support) - Information about screening, badging and main-menu banners.
 - [Official Tournament Support Updates](https://osu.ppy.sh/community/forums/topics/1715676?n=1) - A thread of all changes to the above wiki starting in February 2023.
+- [Community Tournament Status Tracker](https://docs.google.com/spreadsheets/d/1bV5MyrJZI0F52Bx9EcYxdfRu8qGnhWRBKdXHK9uPbO0/edit?gid=1723005949#gid=1723005949) - A spreadsheet which tracks the status of tournaments requesting official support.
 
 ### Clients
 - [osu!tourney](https://osu.ppy.sh/wiki/en/osu%21_tournament_client/osu%21tourney) - Information about the usage and setup osu!tourney (also referred to tourney client, stable tourney client, etc).
