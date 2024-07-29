@@ -49,7 +49,6 @@ This is a collection of useful tools and resources for managing an osu! tourname
     - [Badged tournaments (2021)](https://docs.google.com/spreadsheets/u/1/d/1DWMoBsy8Sh39j65ix6OTs19qbZOzH_zSTgzFgqid7YQ) (by DizzyH)
     - [Badged tournaments (2022)](https://docs.google.com/spreadsheets/d/1IobdnWKVKcMD-kk7UpAk_diSf6HSI9GVwG500W-jdqY) (by DizzyH)
 - [Maps listed by skillset](https://docs.google.com/spreadsheets/d/1wPkqXQoVZUATwWfkEbzPnk_Nr3NJ-FpIxFyjzPL11XA) (by unknown) - Ranges from 4* - 8* pools. Note that this doesn't mean a skillset shoud be confined to the slot given in the sheet.
-- [osu! Tournament & Map Database](https://otmd.konotorii.com) (by Konotorii) - Tournament map database targetting easier pooling for mappoolers.
 
 ### Development
 - [bancho.js](https://bancho.js.org) (by ThePoon) - JS Library for interfacing with Bancho over IRC.
