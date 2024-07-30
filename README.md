@@ -36,6 +36,7 @@ This is a collection of useful tools and resources for managing an osu! tourname
 
 ### Automation/Bots
 
+- [osu! Mappool Compliance Checker](https://github.com/hburn7/awesome-osu-tournaments/tree/master) (by Stage) - A Discord bot that checks a list of maps against osu!'s [content usage permissions](https://osu.ppy.sh/wiki/en/Rules/Content_usage_permissions) rules.
 - [Player avatar download bulk tool](https://git.omkserver.nl/omkelderman/player-avatar-download-bulk-tool) (by oliebol) - Download osu! avatar images in bulk so you can use them in places like osu!lazer.
 - [Tosurnament](https://github.com/SpartanPlume/Tosurnament) (by SpartanPlume) - Discord bot that automates most Discord/spreadsheet relationships.
 - [osu! Lazer Tournament Client Bracket Generator CLI](https://github.com/DRCallaghan/osu-lazer-qualifier-results-bracket-generator) (by D I O) - Command-line interfacing program for automatically generating a complete bracket.json file for the osu! Lazer tournament client by taking qualifier results, player and team information, qualifier pool information, and tournament information.
@@ -49,8 +50,6 @@ This is a collection of useful tools and resources for managing an osu! tourname
     - [Badged tournaments (2021)](https://docs.google.com/spreadsheets/u/1/d/1DWMoBsy8Sh39j65ix6OTs19qbZOzH_zSTgzFgqid7YQ) (by DizzyH)
     - [Badged tournaments (2022)](https://docs.google.com/spreadsheets/d/1IobdnWKVKcMD-kk7UpAk_diSf6HSI9GVwG500W-jdqY) (by DizzyH)
 - [Maps listed by skillset](https://docs.google.com/spreadsheets/d/1wPkqXQoVZUATwWfkEbzPnk_Nr3NJ-FpIxFyjzPL11XA) (by unknown) - Ranges from 4* - 8* pools. Note that this doesn't mean a skillset shoud be confined to the slot given in the sheet.
-- [osu! Tournament & Map Database](https://otmd.konotorii.com) (by Konotorii) - Tournament map database targetting easier pooling for mappoolers.
-- [osu! Tournament Union Mappool Database Tool](https://otu.stagec.xyz/) (by Stage, HitomiChan_ in collaboration with Dominick, 112servis, and o!TU database staff) - Interactive tool for finding maps of specific parameters and skillsets.
 
 ### Development
 - [bancho.js](https://bancho.js.org) (by ThePoon) - JS Library for interfacing with Bancho over IRC.
