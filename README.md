@@ -64,6 +64,7 @@ This is a collection of useful tools and resources for managing an osu! tourname
 
 ### Templates
 
+- [stat lord's tournament spreadsheet templates v1.0](https://drive.google.com/drive/folders/1FHG6tmSobGh_hXi48zIS1lYAyQVjjdOo?usp=drive_link) (by stat lord and RussianVaxei) - Backend Sheet Templates for Admin, Mappool, Referee, and Statistics.
 - [BBCode generator for staff in forum posts](https://docs.google.com/spreadsheets/d/1giUT9wLzhI-VkM6zioNH6pVrMqGDvi0_iUsfRmGRhP8) (by Nathaniel) - Generate BBCode to nicely display your staff in the tournament forum post.
 - [Mappool, qualifier and referee sheet templates](https://drive.google.com/drive/folders/1sIGjDR9_h-M8RgiJ5Nobml5DBdsulCWF) (by IceDynamix) - Sheets for mappool and referee management in the backend, as well as a sheet to organise qualifier results.
 - [Referee sheets](https://drive.google.com/drive/folders/1sYTvq80pB1AESD-e_w6G-lrT02uzLO9O) (by RussianVaxei) - Includes templates for overseeing qualifiers and matches.
