@@ -18,11 +18,14 @@ This is a collection of useful tools and resources for managing an osu! tourname
 - [Google Sheets Function Documentation](https://support.google.com/docs/table/25273?hl=en) - Information about every single Google Sheets function.
 - [osu-api v1 Documentation](https://github.com/ppy/osu-api/wiki) - Information about interfacing with osu! API v1.
 - [osu-api v2 Documentation](https://docs.ppy.sh) - Information about interfacing with osu! API v2.
+- [Community Tournament Tracker API](https://github.com/Hiviexd/tournament-tracker/wiki/API-Documentation) - Information about interfacing with https://tcomm.hivie.tn/
+- [Mappool Compliance API](https://github.com/Hiviexd/tournament-tracker/wiki/Compliance-API-Example-Usage) - Example for using Mappool Compliance API in Google Sheets
 
 ### Official Support
+- [Oficial Community Tournament Tracker](https://tcomm.hivie.tn/) - The one-stop shop for all official osu! tournament correspondence and information.
 - [Official tournament support](https://osu.ppy.sh/wiki/en/Tournaments/Official_support) - Information about screening, badging and main-menu banners.
 - [Official Tournament Support Updates](https://osu.ppy.sh/community/forums/topics/1715676?n=1) - A thread of all changes to the above wiki starting in February 2023.
-- [Community Tournament Status Tracker](https://docs.google.com/spreadsheets/d/1bV5MyrJZI0F52Bx9EcYxdfRu8qGnhWRBKdXHK9uPbO0/edit?gid=1723005949#gid=1723005949) - A spreadsheet which tracks the status of tournaments requesting official support.
+- [Community Tournament Status Tracker (deprecated as of early 2025)](https://docs.google.com/spreadsheets/d/1bV5MyrJZI0F52Bx9EcYxdfRu8qGnhWRBKdXHK9uPbO0/edit?gid=1723005949#gid=1723005949) - A spreadsheet which tracks the status of tournaments requesting official support.
 
 ### Clients
 - [osu!tourney](https://osu.ppy.sh/wiki/en/osu%21_tournament_client/osu%21tourney) - Information about the usage and setup osu!tourney (also referred to tourney client, stable tourney client, etc).
@@ -35,14 +38,13 @@ This is a collection of useful tools and resources for managing an osu! tourname
 ## Community Resources
 
 ### Automation/Bots
-
-- [osu! Mappool Compliance Checker](https://github.com/hburn7/mappool-compliance-checker) (by Stage) - A Discord bot that checks a list of maps against osu!'s [content usage permissions](https://osu.ppy.sh/wiki/en/Rules/Content_usage_permissions) rules.
-- [Player avatar download bulk tool](https://git.omkserver.nl/omkelderman/player-avatar-download-bulk-tool) (by oliebol) - Download osu! avatar images in bulk so you can use them in places like osu!lazer.
+- [osu! Mappool Compliance Checker](https://github.com/hburn7/mappool-compliance-checker) (by [Stage](https://osu.ppy.sh/users/8191845)) - A Discord bot that checks a list of maps against osu!'s [content usage permissions](https://osu.ppy.sh/wiki/en/Rules/Content_usage_permissions) rules.
+- [Player avatar download bulk tool](https://git.omkserver.nl/omkelderman/player-avatar-download-bulk-tool) (by [oliebol](https://osu.ppy.sh/users/2756335)) - Download osu! avatar images in bulk so you can use them in places like osu!lazer.
 - [Tosurnament](https://github.com/SpartanPlume/Tosurnament) (by SpartanPlume) - Discord bot that automates most Discord/spreadsheet relationships.
-- [osu! Lazer Tournament Client Bracket Generator CLI](https://github.com/DRCallaghan/osu-lazer-qualifier-results-bracket-generator) (by D I O) - Command-line interfacing program for automatically generating a complete bracket.json file for the osu! Lazer tournament client by taking qualifier results, player and team information, qualifier pool information, and tournament information.
+- [osu! Lazer Tournament Client Bracket Generator CLI](https://github.com/DRCallaghan/osu-lazer-qualifier-results-bracket-generator) (by [D I O](https://osu.ppy.sh/users/3958619)) - Command-line interfacing program for automatically generating a complete bracket.json file for the osu! Lazer tournament client by taking qualifier results, player and team information, qualifier pool information, and tournament information.
+- [bracket.json Generator and Editor for osu! Lazer Tournament Client](https://github.com/rrailgun/bracket.json-generator) (by rrailgun) - Command-line program for generating and updating a bracket.json file for the osu!tournament client
 
 ### Databases
-
 - Badged Tournaments:
   - Mappools:
     - [Badged tournaments (2019, 5 digit only)](https://docs.google.com/spreadsheets/d/1oaGrmsbHr9L60AgaKTz3_fuvJB7Sjxzxweakm_Uu3Y8) (by unknown)
@@ -62,20 +64,25 @@ This is a collection of useful tools and resources for managing an osu! tourname
 
 - [osu! api fetch stuff for google scripts](https://gist.github.com/omkelderman/037342ca6612140197d0bb6f19328884) (by oliebol) - Sample code to interface with the osu! api using Google Sheets
 
-### Templates
-
+### Google Sheets Templates
+#### Tournaments
 - [stat lord's tournament spreadsheet templates v1.0](https://drive.google.com/drive/folders/1FHG6tmSobGh_hXi48zIS1lYAyQVjjdOo?usp=drive_link) (by stat lord and RussianVaxei) - Backend Sheet Templates for Admin, Mappool, Referee, and Statistics.
-- [BBCode generator for staff in forum posts](https://docs.google.com/spreadsheets/d/1giUT9wLzhI-VkM6zioNH6pVrMqGDvi0_iUsfRmGRhP8) (by Nathaniel) - Generate BBCode to nicely display your staff in the tournament forum post.
 - [Mappool, qualifier and referee sheet templates](https://drive.google.com/drive/folders/1sIGjDR9_h-M8RgiJ5Nobml5DBdsulCWF) (by IceDynamix) - Sheets for mappool and referee management in the backend, as well as a sheet to organise qualifier results.
 - [Referee sheets](https://drive.google.com/drive/folders/1sYTvq80pB1AESD-e_w6G-lrT02uzLO9O) (by RussianVaxei) - Includes templates for overseeing qualifiers and matches.
-- [Team management templates](https://drive.google.com/drive/folders/1MrQc2fFx-OERCHFiezdtvaP3PrtXKg31) (by RussianVaxei) - Track your team's statistics and availability using this collection of sheet templates.
 - [Dio and LeoFLT's tournament sheet templates](https://drive.google.com/drive/folders/1uB5uPs5__RcmuP0aHaUkUGHqeIUuObU7) (by Dio and LeoFLT) - Includes sheets for administration, mappooling, qualifiers, referees, statistics, tryouts, and team management.
 - [Spodai's Referee Sheet](https://osu.ppy.sh/community/forums/topics/1896849?n=1) (By Spodai) - Reworked from DIO and LeoLFT Sheets. Currently have Referee Sheet.
 - [Copy of HitomiChan's tournament sheet templates](https://drive.google.com/drive/folders/1QUwwpA1Lt6lm_YnVI-IdQ24nzZX8XriM) (by HitomiChan) - Includes templates for mappooling, reffing, statistics, and player administration. (Copies by BCraftMG)
 - [Nathaniel's tournament sheet templates](https://drive.google.com/drive/u/1/folders/1OWK7WxQlVQQmeNdI3X7mxvGA8vywKDUB) (by Nathaniel) - Includes 1v1 templates for administration, mappooling, and reffing, as well as a BBCode forum post generator.
-- [Team tournament template](https://docs.google.com/spreadsheets/d/106hHlF1rslZlCqdZ96T0oGWfqblxQIbSJ2VBR0QmbDE) (by Mario564) - Manage your team by keeping track of the team's availability, scores, lost and won maps and compare opponent's scores in previous rounds.
-- [Player tournament history sheet template](https://docs.google.com/spreadsheets/d/18UWiooGGDMMkltJGm_Td1b72MVRnQQ5ceS21w2zm16U) (by Squink) - Display tournament history data in an organized manner with additional teammate data automatically updated on the side.
 - [Behaviour Standards Template](https://osu.ppy.sh/community/forums/topics/2038646) (by niat0004) - A set of relatively detailed rules for participants in (badged) tournaments to abide by, and how these rules are enforced. Covers Discord and Twitch moderation in detail.
+
+#### osu! API Proxy
+- [nginx](https://github.com/osu-community-tournaments/osu-api-proxy) (by KotRik) - nginx config for running a proxy
+
+#### Miscellaneous
+- [BBCode generator for staff in forum posts](https://docs.google.com/spreadsheets/d/1giUT9wLzhI-VkM6zioNH6pVrMqGDvi0_iUsfRmGRhP8) (by Nathaniel) - Generate BBCode to nicely display your staff in the tournament forum post.
+- [Team tournament template](https://docs.google.com/spreadsheets/d/106hHlF1rslZlCqdZ96T0oGWfqblxQIbSJ2VBR0QmbDE) (by Mario564) - Manage your team by keeping track of the team's availability, scores, lost and won maps and compare opponent's scores in previous rounds.
+- [Team management templates](https://drive.google.com/drive/folders/1MrQc2fFx-OERCHFiezdtvaP3PrtXKg31) (by RussianVaxei) - Track your team's statistics and availability using this collection of sheet templates.
+- [Player tournament history sheet template](https://docs.google.com/spreadsheets/d/18UWiooGGDMMkltJGm_Td1b72MVRnQQ5ceS21w2zm16U) (by Squink) - Display tournament history data in an organized manner with additional teammate data automatically updated on the side.
 - [bracket.json Template](https://drive.google.com/drive/folders/1nQCujQAnoeCRQVSa4w6sEfwiNvt0USm2) (by BCraftMG) - Empty bracket.json for use with Lazer. Includes Ro64-Ro16 Single/Double Elimination
 
 ### Tools
@@ -105,4 +112,5 @@ This is a collection of useful tools and resources for managing an osu! tourname
 ### Tournament Overlay Templates
 - VCL Tournament Overlay - Lazer edition (by Hoaq) - A template overlay compatible with Gosumemory / Tosu, made to simplify the trouble with setting up Lazer overlay. Supports both score and accuracy win conditions.
   - [Gosumemory version](https://github.com/vncommunityleague/vcl-tournament-overlay-gosumemory/) - deprecated
-  - [Tosu version](https://github.com/vncommunityleague/vcl-tournament-overlay-tosu/) - recommended
+  - [Tosu version](https://github.com/vncommunityleague/vcl-tournament-overlay-tosu/) - deprecated
+  - [Tosu version - reworked](https://github.com/vncommunityleague/vcl-overlay)
