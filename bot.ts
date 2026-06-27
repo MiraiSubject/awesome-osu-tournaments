@@ -69,7 +69,7 @@ export default class DiscordBot extends Client {
         await channel.send({
             embeds: [reverifyEmbed, officialResourcesEmbed, communityResourcesEmbed]
         });
-        console.log("Sucessfully updated embeds in the discord channel");
+        console.log("Successfully updated embeds in the discord channel");
         process.exit(0);
     }
 
