@@ -73,7 +73,7 @@ This is a collection of useful tools and resources for managing an osu! tourname
 - [Dio and LeoFLT's tournament sheet templates](https://drive.google.com/drive/folders/1uB5uPs5__RcmuP0aHaUkUGHqeIUuObU7) (by [D I O](https://osu.ppy.sh/users/3958619) and [LeoFLT](https://osu.ppy.sh/users/3668779)) - Includes sheets for administration, mappooling, qualifiers, referees, statistics, tryouts, and team management.
 - [Spodai's Referee Sheet](https://osu.ppy.sh/community/forums/topics/1896849?n=1) (By [Spodai](https://osu.ppy.sh/users/12710965)) - Reworked from DIO and LeoLFT Sheets. Currently have Referee Sheet.
 - [Copy of HitomiChan's tournament sheet templates](https://drive.google.com/drive/folders/1QUwwpA1Lt6lm_YnVI-IdQ24nzZX8XriM) (by HitomiChan) - Includes templates for mappooling, reffing, statistics, and player administration. (Copies by [BCraftMG](https://osu.ppy.sh/users/13456818))
-- [Nathaniel's tournament sheet templates](https://drive.google.com/drive/u/1/folders/1OWK7WxQlVQQmeNdI3X7mxvGA8vywKDUB) (by Nathaniel) - Includes 1v1 templates for administration, mappooling, and reffing, as well as a BBCode forum post generator.
+- [Nathaniel's tournament sheet templates](https://drive.google.com/drive/u/1/folders/1OWK7WxQlVQQmeNdI3X7mxvGA8vywKDUB) (by [Nathaniel](https://osu.ppy.sh/users/6534748)) - Includes 1v1 templates for administration, mappooling, and reffing, as well as a BBCode forum post generator.
 - [Behaviour Standards Template](https://osu.ppy.sh/community/forums/topics/2038646) (by [niat0004](https://osu.ppy.sh/users/10797776)) - A set of relatively detailed rules for participants in (badged) tournaments to abide by, and how these rules are enforced. Covers Discord and Twitch moderation in detail.
 
 #### osu! API Proxy
